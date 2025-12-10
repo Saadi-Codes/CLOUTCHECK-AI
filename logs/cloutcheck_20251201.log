@@ -1,0 +1,326 @@
+2025-12-01 16:32:05 - __main__ - INFO - 
+2025-12-01 16:32:05 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:05 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 16:32:05 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:05 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 16:32:05 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 16:32:05 - __main__ - INFO - 
+2025-12-01 16:32:05 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:05 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 16:32:05 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:05 - __main__ - INFO - Moved JSON to C:\Users\user\Desktop\FYP\data\raw\mattrife_6months_posts.json
+2025-12-01 16:32:05 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 16:32:06 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 16:32:06 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 16:32:06 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 16:32:06 - __main__ - INFO - 
+2025-12-01 16:32:06 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:06 - __main__ - INFO -   STAGE 2: DOWNLOADING MEDIA (MATTRIFE)
+2025-12-01 16:32:06 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:06 - __main__ - INFO - Running Converter.py...
+2025-12-01 16:32:06 - __main__ - INFO - 
+2025-12-01 16:32:06 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:06 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-01 16:32:06 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:06 - __main__ - INFO - 
+2025-12-01 16:32:06 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:06 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-01 16:32:06 - __main__ - INFO - ======================================================================
+2025-12-01 16:32:06 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-01 16:32:06 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-01 16:32:06 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-01 16:34:13 - __main__ - INFO - 
+2025-12-01 16:34:13 - __main__ - INFO - ======================================================================
+2025-12-01 16:34:13 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 16:34:13 - __main__ - INFO - ======================================================================
+2025-12-01 16:34:13 - __main__ - ERROR - No *_6months_posts.json files found
+2025-12-01 16:34:13 - __main__ - INFO - 
+Please run Scraper.py first:
+2025-12-01 16:34:13 - __main__ - INFO -   python Scraper.py
+2025-12-01 16:35:59 - __main__ - INFO - 
+2025-12-01 16:35:59 - __main__ - INFO - ======================================================================
+2025-12-01 16:35:59 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 16:35:59 - __main__ - INFO - ======================================================================
+2025-12-01 16:35:59 - __main__ - ERROR - No *_6months_posts.json files found
+2025-12-01 16:35:59 - __main__ - INFO - 
+Please run Scraper.py first:
+2025-12-01 16:35:59 - __main__ - INFO -   python Scraper.py
+2025-12-01 16:40:53 - __main__ - INFO - 
+2025-12-01 16:40:53 - __main__ - INFO - ======================================================================
+2025-12-01 16:40:53 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 16:40:53 - __main__ - INFO - ======================================================================
+2025-12-01 16:40:53 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 16:40:53 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 16:40:53 - __main__ - INFO - 
+2025-12-01 16:40:53 - __main__ - INFO - ======================================================================
+2025-12-01 16:40:53 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 16:40:53 - __main__ - INFO - ======================================================================
+2025-12-01 16:40:53 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 16:40:54 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 16:40:54 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 16:40:54 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 16:40:54 - __main__ - INFO - 
+2025-12-01 16:40:54 - __main__ - INFO - ======================================================================
+2025-12-01 16:40:54 - __main__ - INFO -   STAGE 2: DOWNLOADING MEDIA (MATTRIFE)
+2025-12-01 16:40:54 - __main__ - INFO - ======================================================================
+2025-12-01 16:40:54 - __main__ - INFO - Running Converter.py...
+2025-12-01 16:57:01 - __main__ - INFO - 
+2025-12-01 16:57:01 - __main__ - INFO - ======================================================================
+2025-12-01 16:57:01 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 16:57:01 - __main__ - INFO - ======================================================================
+2025-12-01 16:57:01 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 16:57:01 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 16:57:01 - __main__ - INFO - 
+2025-12-01 16:57:01 - __main__ - INFO - ======================================================================
+2025-12-01 16:57:01 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 16:57:01 - __main__ - INFO - ======================================================================
+2025-12-01 16:57:01 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 16:57:01 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 16:57:01 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 16:57:01 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 16:57:02 - __main__ - INFO - 
+2025-12-01 16:57:02 - __main__ - INFO - ======================================================================
+2025-12-01 16:57:02 - __main__ - INFO -   STAGE 2: DOWNLOADING MEDIA (MATTRIFE)
+2025-12-01 16:57:02 - __main__ - INFO - ======================================================================
+2025-12-01 16:57:02 - __main__ - INFO - Running Converter.py...
+2025-12-01 17:19:15 - __main__ - INFO - 
+2025-12-01 17:19:15 - __main__ - INFO - ======================================================================
+2025-12-01 17:19:15 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 17:19:15 - __main__ - INFO - ======================================================================
+2025-12-01 17:19:15 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 17:19:15 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 17:19:15 - __main__ - INFO - 
+2025-12-01 17:19:15 - __main__ - INFO - ======================================================================
+2025-12-01 17:19:15 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 17:19:15 - __main__ - INFO - ======================================================================
+2025-12-01 17:19:15 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 17:19:15 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 17:19:16 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 17:19:16 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 17:19:16 - __main__ - INFO - 
+2025-12-01 17:19:16 - __main__ - INFO - ======================================================================
+2025-12-01 17:19:16 - __main__ - INFO -   STAGE 2: DOWNLOADING MEDIA (MATTRIFE)
+2025-12-01 17:19:16 - __main__ - INFO - ======================================================================
+2025-12-01 17:19:16 - __main__ - INFO - Running Converter.py...
+2025-12-01 17:58:51 - __main__ - INFO - 
+2025-12-01 17:58:51 - __main__ - INFO - ======================================================================
+2025-12-01 17:58:51 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-01 17:58:51 - __main__ - INFO - ======================================================================
+2025-12-01 17:58:51 - __main__ - INFO - 
+2025-12-01 17:58:51 - __main__ - INFO - ======================================================================
+2025-12-01 17:58:51 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-01 17:58:51 - __main__ - INFO - ======================================================================
+2025-12-01 17:58:51 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-01 17:58:51 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-01 17:58:51 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-01 18:08:55 - __main__ - INFO - 
+2025-12-01 18:08:55 - __main__ - INFO - ======================================================================
+2025-12-01 18:08:55 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 18:08:55 - __main__ - INFO - ======================================================================
+2025-12-01 18:08:55 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 18:08:55 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 18:08:55 - __main__ - INFO - 
+2025-12-01 18:08:55 - __main__ - INFO - ======================================================================
+2025-12-01 18:08:55 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 18:08:55 - __main__ - INFO - ======================================================================
+2025-12-01 18:08:55 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 18:08:55 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 18:08:55 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 18:08:55 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 18:08:55 - __main__ - INFO - 
+2025-12-01 18:08:55 - __main__ - INFO - ======================================================================
+2025-12-01 18:08:55 - __main__ - INFO -   STAGE 2: DOWNLOADING MEDIA (MATTRIFE)
+2025-12-01 18:08:55 - __main__ - INFO - ======================================================================
+2025-12-01 18:08:55 - __main__ - INFO - Running Converter.py...
+2025-12-01 18:17:41 - __main__ - INFO - 
+2025-12-01 18:17:41 - __main__ - INFO - ======================================================================
+2025-12-01 18:17:41 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 18:17:41 - __main__ - INFO - ======================================================================
+2025-12-01 18:17:41 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 18:17:41 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 18:17:41 - __main__ - INFO - 
+2025-12-01 18:17:41 - __main__ - INFO - ======================================================================
+2025-12-01 18:17:41 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 18:17:41 - __main__ - INFO - ======================================================================
+2025-12-01 18:17:41 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 18:17:41 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 18:17:41 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 18:17:41 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 18:17:41 - __main__ - INFO - 
+2025-12-01 18:17:41 - __main__ - INFO - ======================================================================
+2025-12-01 18:17:41 - __main__ - INFO -   STAGE 2: DOWNLOADING MEDIA (MATTRIFE)
+2025-12-01 18:17:41 - __main__ - INFO - ======================================================================
+2025-12-01 18:17:41 - __main__ - INFO - Running Converter.py...
+2025-12-01 18:21:02 - __main__ - INFO - 
+2025-12-01 18:21:02 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:02 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 18:21:02 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:02 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 18:21:02 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 18:21:02 - __main__ - INFO - 
+2025-12-01 18:21:02 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:02 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 18:21:02 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:02 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 18:21:02 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 18:21:02 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 18:21:02 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 18:21:02 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-01 18:21:02 - __main__ - INFO -   Images: 796 files
+2025-12-01 18:21:02 - __main__ - INFO -   Videos: 94 files
+2025-12-01 18:21:02 - __main__ - INFO - 
+2025-12-01 18:21:02 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:02 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-01 18:21:02 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:02 - __main__ - INFO - 
+2025-12-01 18:21:02 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:02 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-01 18:21:02 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:02 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-01 18:21:02 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-01 18:21:02 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-01 18:21:39 - __main__ - INFO - 
+2025-12-01 18:21:39 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:39 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 18:21:39 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:39 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 18:21:39 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 18:21:39 - __main__ - INFO - 
+2025-12-01 18:21:39 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:39 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 18:21:39 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:39 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 18:21:39 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 18:21:39 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 18:21:39 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 18:21:39 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-01 18:21:39 - __main__ - INFO -   Images: 796 files
+2025-12-01 18:21:39 - __main__ - INFO -   Videos: 94 files
+2025-12-01 18:21:39 - __main__ - INFO - 
+2025-12-01 18:21:39 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:39 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-01 18:21:39 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:39 - __main__ - INFO - 
+2025-12-01 18:21:39 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:39 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-01 18:21:39 - __main__ - INFO - ======================================================================
+2025-12-01 18:21:39 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-01 18:21:39 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-01 18:21:39 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-01 18:25:47 - __main__ - INFO - 
+2025-12-01 18:25:47 - __main__ - INFO - ======================================================================
+2025-12-01 18:25:47 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 18:25:47 - __main__ - INFO - ======================================================================
+2025-12-01 18:25:47 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 18:25:47 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 18:25:47 - __main__ - INFO - 
+2025-12-01 18:25:47 - __main__ - INFO - ======================================================================
+2025-12-01 18:25:47 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 18:25:47 - __main__ - INFO - ======================================================================
+2025-12-01 18:25:47 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 18:25:47 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 18:25:47 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 18:25:47 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 18:25:47 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-01 18:25:47 - __main__ - INFO -   Images: 796 files
+2025-12-01 18:25:47 - __main__ - INFO -   Videos: 94 files
+2025-12-01 18:25:47 - __main__ - INFO - 
+2025-12-01 18:25:47 - __main__ - INFO - ======================================================================
+2025-12-01 18:25:47 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-01 18:25:47 - __main__ - INFO - ======================================================================
+2025-12-01 18:25:47 - __main__ - INFO - 
+2025-12-01 18:25:47 - __main__ - INFO - ======================================================================
+2025-12-01 18:25:47 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-01 18:25:47 - __main__ - INFO - ======================================================================
+2025-12-01 18:25:47 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-01 18:25:47 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-01 18:25:47 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-01 18:30:36 - __main__ - INFO - 
+2025-12-01 18:30:36 - __main__ - INFO - ======================================================================
+2025-12-01 18:30:36 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 18:30:36 - __main__ - INFO - ======================================================================
+2025-12-01 18:30:36 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 18:30:36 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 18:30:36 - __main__ - INFO - 
+2025-12-01 18:30:36 - __main__ - INFO - ======================================================================
+2025-12-01 18:30:36 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 18:30:36 - __main__ - INFO - ======================================================================
+2025-12-01 18:30:36 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 18:30:36 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 18:30:36 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 18:30:36 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 18:30:36 - __main__ - INFO - 
+2025-12-01 18:30:36 - __main__ - INFO - ======================================================================
+2025-12-01 18:30:36 - __main__ - INFO -   STAGE 2: DOWNLOADING MEDIA (MATTRIFE)
+2025-12-01 18:30:36 - __main__ - INFO - ======================================================================
+2025-12-01 18:30:36 - __main__ - INFO - Running Converter.py...
+2025-12-01 18:37:37 - __main__ - INFO - 
+2025-12-01 18:37:37 - __main__ - INFO - ======================================================================
+2025-12-01 18:37:37 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 18:37:37 - __main__ - INFO - ======================================================================
+2025-12-01 18:37:37 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 18:37:37 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 18:37:37 - __main__ - INFO - 
+2025-12-01 18:37:37 - __main__ - INFO - ======================================================================
+2025-12-01 18:37:37 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 18:37:37 - __main__ - INFO - ======================================================================
+2025-12-01 18:37:37 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 18:37:38 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 18:37:38 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 18:37:38 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 18:37:38 - __main__ - INFO - 
+2025-12-01 18:37:38 - __main__ - INFO - ======================================================================
+2025-12-01 18:37:38 - __main__ - INFO -   STAGE 2: DOWNLOADING MEDIA (MATTRIFE)
+2025-12-01 18:37:38 - __main__ - INFO - ======================================================================
+2025-12-01 18:37:38 - __main__ - INFO - Running Converter.py...
+2025-12-01 19:37:21 - __main__ - INFO - 
+2025-12-01 19:37:21 - __main__ - INFO - ======================================================================
+2025-12-01 19:37:21 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-01 19:37:21 - __main__ - INFO - ======================================================================
+2025-12-01 19:37:21 - __main__ - INFO - 
+2025-12-01 19:37:21 - __main__ - INFO - ======================================================================
+2025-12-01 19:37:21 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-01 19:37:21 - __main__ - INFO - ======================================================================
+2025-12-01 19:37:21 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-01 19:37:21 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-01 19:37:21 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-01 19:38:25 - __main__ - INFO - 
+2025-12-01 19:38:25 - __main__ - INFO - ======================================================================
+2025-12-01 19:38:25 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-01 19:38:25 - __main__ - INFO - ======================================================================
+2025-12-01 19:38:25 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-01 19:38:25 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-01 19:38:25 - __main__ - INFO - 
+2025-12-01 19:38:25 - __main__ - INFO - ======================================================================
+2025-12-01 19:38:25 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-01 19:38:25 - __main__ - INFO - ======================================================================
+2025-12-01 19:38:25 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-01 19:38:25 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-01 19:38:25 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-01 19:38:25 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-01 19:38:25 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-01 19:38:25 - __main__ - INFO -   Images: 796 files
+2025-12-01 19:38:25 - __main__ - INFO -   Videos: 94 files
+2025-12-01 19:38:25 - __main__ - INFO - 
+2025-12-01 19:38:25 - __main__ - INFO - ======================================================================
+2025-12-01 19:38:25 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-01 19:38:25 - __main__ - INFO - ======================================================================
+2025-12-01 19:38:25 - __main__ - INFO - 
+2025-12-01 19:38:25 - __main__ - INFO - ======================================================================
+2025-12-01 19:38:25 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-01 19:38:25 - __main__ - INFO - ======================================================================
+2025-12-01 19:38:25 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-01 19:38:25 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-01 19:38:25 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small

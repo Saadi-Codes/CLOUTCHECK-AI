@@ -1,0 +1,1220 @@
+2025-12-02 18:11:51 - __main__ - INFO - 
+2025-12-02 18:11:51 - __main__ - INFO - ======================================================================
+2025-12-02 18:11:51 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 18:11:51 - __main__ - INFO - ======================================================================
+2025-12-02 18:11:51 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 18:11:51 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 18:11:51 - __main__ - INFO - 
+2025-12-02 18:11:51 - __main__ - INFO - ======================================================================
+2025-12-02 18:11:51 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 18:11:51 - __main__ - INFO - ======================================================================
+2025-12-02 18:11:51 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 18:11:51 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 18:11:51 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 18:11:51 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 18:11:51 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 18:11:51 - __main__ - INFO -   Images: 796 files
+2025-12-02 18:11:51 - __main__ - INFO -   Videos: 94 files
+2025-12-02 18:11:51 - __main__ - INFO - 
+2025-12-02 18:11:51 - __main__ - INFO - ======================================================================
+2025-12-02 18:11:51 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 18:11:51 - __main__ - INFO - ======================================================================
+2025-12-02 18:11:51 - __main__ - INFO - 
+2025-12-02 18:11:51 - __main__ - INFO - ======================================================================
+2025-12-02 18:11:51 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 18:11:51 - __main__ - INFO - ======================================================================
+2025-12-02 18:11:51 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 18:11:51 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 18:11:51 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-02 18:52:14 - __main__ - INFO - 
+2025-12-02 18:52:14 - __main__ - INFO - ======================================================================
+2025-12-02 18:52:14 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 18:52:14 - __main__ - INFO - ======================================================================
+2025-12-02 18:52:14 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 18:52:14 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 18:52:14 - __main__ - INFO - 
+2025-12-02 18:52:14 - __main__ - INFO - ======================================================================
+2025-12-02 18:52:14 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 18:52:14 - __main__ - INFO - ======================================================================
+2025-12-02 18:52:14 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 18:52:14 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 18:52:14 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 18:52:14 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 18:52:14 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 18:52:14 - __main__ - INFO -   Images: 796 files
+2025-12-02 18:52:14 - __main__ - INFO -   Videos: 94 files
+2025-12-02 18:52:14 - __main__ - INFO - 
+2025-12-02 18:52:14 - __main__ - INFO - ======================================================================
+2025-12-02 18:52:14 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 18:52:14 - __main__ - INFO - ======================================================================
+2025-12-02 18:52:14 - __main__ - INFO - 
+2025-12-02 18:52:14 - __main__ - INFO - ======================================================================
+2025-12-02 18:52:14 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 18:52:14 - __main__ - INFO - ======================================================================
+2025-12-02 18:52:14 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 18:52:14 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 18:52:14 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-02 18:57:48 - __main__ - INFO - 
+2025-12-02 18:57:48 - __main__ - INFO - ======================================================================
+2025-12-02 18:57:48 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 18:57:48 - __main__ - INFO - ======================================================================
+2025-12-02 18:57:48 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 18:57:48 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 18:57:48 - __main__ - INFO - 
+2025-12-02 18:57:48 - __main__ - INFO - ======================================================================
+2025-12-02 18:57:48 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 18:57:48 - __main__ - INFO - ======================================================================
+2025-12-02 18:57:48 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 18:57:48 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 18:57:48 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 18:57:48 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 18:57:48 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 18:57:48 - __main__ - INFO -   Images: 789 files
+2025-12-02 18:57:48 - __main__ - INFO -   Videos: 92 files
+2025-12-02 18:57:48 - __main__ - INFO - 
+2025-12-02 18:57:48 - __main__ - INFO - ======================================================================
+2025-12-02 18:57:48 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 18:57:48 - __main__ - INFO - ======================================================================
+2025-12-02 18:57:48 - __main__ - INFO - 
+2025-12-02 18:57:48 - __main__ - INFO - ======================================================================
+2025-12-02 18:57:48 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 18:57:48 - __main__ - INFO - ======================================================================
+2025-12-02 18:57:48 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 18:57:48 - src.models.text_toxicity_simple - INFO - Initializing SimpleTextAnalyzer on cpu
+2025-12-02 18:57:48 - src.models.text_toxicity_simple - INFO - Loading sentiment model...
+2025-12-02 18:58:28 - src.models.text_toxicity_simple - INFO - ✓ Sentiment model ready
+2025-12-02 18:58:28 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 18:58:28 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 18:58:28 - __main__ - INFO - Analyzing text content...
+2025-12-02 18:59:06 - __main__ - INFO - Analyzing images...
+2025-12-02 18:59:06 - __main__ - INFO - Found 789 images
+2025-12-02 18:59:16 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 18:59:16 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 18:59:16 - __main__ - ERROR - Failed to analyze @mattrife: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 274, in main
+    # Stage 4: Cleanup
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 189, in print_results_summary
+    print(f"   Rating: {results['rating']}")
+  File "D:\Python\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>
+2025-12-02 18:59:16 - __main__ - INFO - 
+2025-12-02 18:59:16 - __main__ - INFO - ======================================================================
+2025-12-02 18:59:16 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 18:59:16 - __main__ - INFO - ======================================================================
+2025-12-02 18:59:16 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 19:02:57 - __main__ - INFO - 
+2025-12-02 19:02:57 - __main__ - INFO - ======================================================================
+2025-12-02 19:02:57 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 19:02:57 - __main__ - INFO - ======================================================================
+2025-12-02 19:02:57 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 19:02:57 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 19:02:57 - __main__ - INFO - 
+2025-12-02 19:02:57 - __main__ - INFO - ======================================================================
+2025-12-02 19:02:57 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 19:02:57 - __main__ - INFO - ======================================================================
+2025-12-02 19:02:57 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 19:02:57 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 19:02:57 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 19:02:57 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 19:02:57 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 19:02:57 - __main__ - INFO -   Images: 796 files
+2025-12-02 19:02:57 - __main__ - INFO -   Videos: 94 files
+2025-12-02 19:02:57 - __main__ - INFO - 
+2025-12-02 19:02:57 - __main__ - INFO - ======================================================================
+2025-12-02 19:02:57 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 19:02:57 - __main__ - INFO - ======================================================================
+2025-12-02 19:02:57 - __main__ - INFO - 
+2025-12-02 19:02:57 - __main__ - INFO - ======================================================================
+2025-12-02 19:02:57 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 19:02:57 - __main__ - INFO - ======================================================================
+2025-12-02 19:02:57 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 19:02:57 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 19:02:57 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-02 19:07:42 - __main__ - INFO - 
+2025-12-02 19:07:42 - __main__ - INFO - ======================================================================
+2025-12-02 19:07:42 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 19:07:42 - __main__ - INFO - ======================================================================
+2025-12-02 19:07:42 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 19:07:42 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 19:07:42 - __main__ - INFO - 
+2025-12-02 19:07:42 - __main__ - INFO - ======================================================================
+2025-12-02 19:07:42 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 19:07:42 - __main__ - INFO - ======================================================================
+2025-12-02 19:07:42 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 19:07:42 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 19:07:42 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 19:07:42 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 19:07:42 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 19:07:42 - __main__ - INFO -   Images: 796 files
+2025-12-02 19:07:42 - __main__ - INFO -   Videos: 94 files
+2025-12-02 19:07:42 - __main__ - INFO - 
+2025-12-02 19:07:42 - __main__ - INFO - ======================================================================
+2025-12-02 19:07:42 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 19:07:42 - __main__ - INFO - ======================================================================
+2025-12-02 19:07:42 - __main__ - INFO - 
+2025-12-02 19:07:42 - __main__ - INFO - ======================================================================
+2025-12-02 19:07:42 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 19:07:42 - __main__ - INFO - ======================================================================
+2025-12-02 19:07:42 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 19:07:42 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 19:07:42 - src.models.text_toxicity - INFO - Loading Detoxify model: unbiased-small
+2025-12-02 19:12:13 - __main__ - INFO - 
+2025-12-02 19:12:13 - __main__ - INFO - ======================================================================
+2025-12-02 19:12:13 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 19:12:13 - __main__ - INFO - ======================================================================
+2025-12-02 19:12:13 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 19:12:13 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 19:12:13 - __main__ - INFO - 
+2025-12-02 19:12:13 - __main__ - INFO - ======================================================================
+2025-12-02 19:12:13 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 19:12:13 - __main__ - INFO - ======================================================================
+2025-12-02 19:12:13 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 19:12:13 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 19:12:13 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 19:12:13 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 19:12:13 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 19:12:13 - __main__ - INFO -   Images: 796 files
+2025-12-02 19:12:13 - __main__ - INFO -   Videos: 94 files
+2025-12-02 19:12:13 - __main__ - INFO - 
+2025-12-02 19:12:13 - __main__ - INFO - ======================================================================
+2025-12-02 19:12:13 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 19:12:13 - __main__ - INFO - ======================================================================
+2025-12-02 19:12:13 - __main__ - INFO - 
+2025-12-02 19:12:13 - __main__ - INFO - ======================================================================
+2025-12-02 19:12:13 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 19:12:13 - __main__ - INFO - ======================================================================
+2025-12-02 19:12:13 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 19:12:13 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 19:12:13 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 19:13:59 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 19:13:59 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 19:15:33 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 19:15:33 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 19:15:33 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 19:15:33 - __main__ - INFO - Analyzing text content...
+2025-12-02 19:15:35 - __main__ - WARNING - Text analysis failed for post DRshXQCkd1B: list indices must be integers or slices, not str
+2025-12-02 19:15:36 - __main__ - WARNING - Text analysis failed for post DRp9R9Zkkwb: list indices must be integers or slices, not str
+2025-12-02 19:15:37 - __main__ - WARNING - Text analysis failed for post DRm5sNaCTz2: list indices must be integers or slices, not str
+2025-12-02 19:15:38 - __main__ - WARNING - Text analysis failed for post DRf0jkjkaHp: list indices must be integers or slices, not str
+2025-12-02 19:15:39 - __main__ - WARNING - Text analysis failed for post DRdo6GLgNHI: list indices must be integers or slices, not str
+2025-12-02 19:15:41 - __main__ - WARNING - Text analysis failed for post DRX8OpzgY7X: list indices must be integers or slices, not str
+2025-12-02 19:15:42 - __main__ - WARNING - Text analysis failed for post DRTCOu3gCxq: list indices must be integers or slices, not str
+2025-12-02 19:15:43 - __main__ - WARNING - Text analysis failed for post DRImnTekof7: list indices must be integers or slices, not str
+2025-12-02 19:15:45 - __main__ - WARNING - Text analysis failed for post DRDRnsgEmYi: list indices must be integers or slices, not str
+2025-12-02 19:15:46 - __main__ - WARNING - Text analysis failed for post DRBEVPcACjk: list indices must be integers or slices, not str
+2025-12-02 19:15:48 - __main__ - WARNING - Text analysis failed for post DQ4jj56ADsY: list indices must be integers or slices, not str
+2025-12-02 19:15:50 - __main__ - WARNING - Text analysis failed for post DQxnCHrgLbs: list indices must be integers or slices, not str
+2025-12-02 19:15:53 - __main__ - WARNING - Text analysis failed for post DQr6tcqkuGM: list indices must be integers or slices, not str
+2025-12-02 19:15:55 - __main__ - WARNING - Text analysis failed for post DQp5z-zgVBf: list indices must be integers or slices, not str
+2025-12-02 19:15:56 - __main__ - WARNING - Text analysis failed for post DQfxAI6kePl: list indices must be integers or slices, not str
+2025-12-02 19:15:57 - __main__ - WARNING - Text analysis failed for post DQX7JjhAc1S: list indices must be integers or slices, not str
+2025-12-02 19:15:58 - __main__ - WARNING - Text analysis failed for post DQNeScyEuyF: list indices must be integers or slices, not str
+2025-12-02 19:15:59 - __main__ - WARNING - Text analysis failed for post DQK199qDkds: list indices must be integers or slices, not str
+2025-12-02 19:16:00 - __main__ - WARNING - Text analysis failed for post DQIUhEdgEoO: list indices must be integers or slices, not str
+2025-12-02 19:16:01 - __main__ - WARNING - Text analysis failed for post DQDS2_KAQNI: list indices must be integers or slices, not str
+2025-12-02 19:16:02 - __main__ - WARNING - Text analysis failed for post DP43psqgPWL: list indices must be integers or slices, not str
+2025-12-02 19:16:03 - __main__ - WARNING - Text analysis failed for post DPzu24PEvpq: list indices must be integers or slices, not str
+2025-12-02 19:16:06 - __main__ - WARNING - Text analysis failed for post DPrlOOnkrM1: list indices must be integers or slices, not str
+2025-12-02 19:16:07 - __main__ - WARNING - Text analysis failed for post DPpcMNSgJoq: list indices must be integers or slices, not str
+2025-12-02 19:16:08 - __main__ - WARNING - Text analysis failed for post DPkNm09EyzY: list indices must be integers or slices, not str
+2025-12-02 19:16:10 - __main__ - WARNING - Text analysis failed for post DPeiDGVgHFf: list indices must be integers or slices, not str
+2025-12-02 19:16:11 - __main__ - WARNING - Text analysis failed for post DPXZoQuE5Wd: list indices must be integers or slices, not str
+2025-12-02 19:16:14 - __main__ - WARNING - Text analysis failed for post DPU8kTgEglj: list indices must be integers or slices, not str
+2025-12-02 19:16:16 - __main__ - WARNING - Text analysis failed for post DPR9kjJklT9: list indices must be integers or slices, not str
+2025-12-02 19:16:17 - __main__ - WARNING - Text analysis failed for post DPPrE0Lk3rt: list indices must be integers or slices, not str
+2025-12-02 19:16:19 - __main__ - WARNING - Text analysis failed for post DPALQvNgaae: list indices must be integers or slices, not str
+2025-12-02 19:16:20 - __main__ - WARNING - Text analysis failed for post DO9pgNxgYHK: list indices must be integers or slices, not str
+2025-12-02 19:16:23 - __main__ - WARNING - Text analysis failed for post DO6l82aASVw: list indices must be integers or slices, not str
+2025-12-02 19:16:24 - __main__ - WARNING - Text analysis failed for post DOw1ui3AEBf: list indices must be integers or slices, not str
+2025-12-02 19:16:26 - __main__ - WARNING - Text analysis failed for post DOuI8-fgdtw: list indices must be integers or slices, not str
+2025-12-02 19:16:28 - __main__ - WARNING - Text analysis failed for post DOrlqlWgbNX: list indices must be integers or slices, not str
+2025-12-02 19:16:30 - __main__ - WARNING - Text analysis failed for post DOogtWCD-na: list indices must be integers or slices, not str
+2025-12-02 19:16:32 - __main__ - WARNING - Text analysis failed for post DOeH5o1gIxS: list indices must be integers or slices, not str
+2025-12-02 19:16:33 - __main__ - WARNING - Text analysis failed for post DOW3-EXASux: list indices must be integers or slices, not str
+2025-12-02 19:16:34 - __main__ - WARNING - Text analysis failed for post DOUCXubkjC7: list indices must be integers or slices, not str
+2025-12-02 19:16:37 - __main__ - WARNING - Text analysis failed for post DOMo8BVkp5N: list indices must be integers or slices, not str
+2025-12-02 19:16:38 - __main__ - WARNING - Text analysis failed for post DOEoKDFknlE: list indices must be integers or slices, not str
+2025-12-02 19:16:41 - __main__ - WARNING - Text analysis failed for post DN9YMHjgD5T: list indices must be integers or slices, not str
+2025-12-02 19:16:43 - __main__ - WARNING - Text analysis failed for post DN61RYzAJF-: list indices must be integers or slices, not str
+2025-12-02 19:16:44 - __main__ - WARNING - Text analysis failed for post DN38_SQgdPr: list indices must be integers or slices, not str
+2025-12-02 19:16:45 - __main__ - WARNING - Text analysis failed for post DN1gNuCwnV4: list indices must be integers or slices, not str
+2025-12-02 19:16:47 - __main__ - WARNING - Text analysis failed for post DNjZ6ityk5X: list indices must be integers or slices, not str
+2025-12-02 19:16:49 - __main__ - WARNING - Text analysis failed for post DNZMLy0BMF2: list indices must be integers or slices, not str
+2025-12-02 19:16:51 - __main__ - WARNING - Text analysis failed for post DNWmAh8ylLn: list indices must be integers or slices, not str
+2025-12-02 19:16:52 - __main__ - WARNING - Text analysis failed for post DNQsj6MOrun: list indices must be integers or slices, not str
+2025-12-02 19:16:55 - __main__ - WARNING - Text analysis failed for post DNOynh5h4Yg: list indices must be integers or slices, not str
+2025-12-02 19:16:56 - __main__ - WARNING - Text analysis failed for post DNGzW2dMsRy: list indices must be integers or slices, not str
+2025-12-02 19:16:58 - __main__ - WARNING - Text analysis failed for post DNCDSNtybPW: list indices must be integers or slices, not str
+2025-12-02 19:17:00 - __main__ - WARNING - Text analysis failed for post DM8Vt6FA5yR: list indices must be integers or slices, not str
+2025-12-02 19:17:00 - __main__ - WARNING - Text analysis failed for post DM1S1wqPjwU: list indices must be integers or slices, not str
+2025-12-02 19:17:03 - __main__ - WARNING - Text analysis failed for post DM02fDXRMRd: list indices must be integers or slices, not str
+2025-12-02 19:17:04 - __main__ - WARNING - Text analysis failed for post DMyjJ_LxQ2J: list indices must be integers or slices, not str
+2025-12-02 19:17:05 - __main__ - WARNING - Text analysis failed for post DMq1CqfBxDx: list indices must be integers or slices, not str
+2025-12-02 19:17:06 - __main__ - WARNING - Text analysis failed for post DMgOTScxa6Q: list indices must be integers or slices, not str
+2025-12-02 19:17:09 - __main__ - WARNING - Text analysis failed for post DMbLLENBP9V: list indices must be integers or slices, not str
+2025-12-02 19:17:10 - __main__ - WARNING - Text analysis failed for post DMYyzenAxdW: list indices must be integers or slices, not str
+2025-12-02 19:17:11 - __main__ - WARNING - Text analysis failed for post DMJWVUvg5nI: list indices must be integers or slices, not str
+2025-12-02 19:17:12 - __main__ - WARNING - Text analysis failed for post DL8KFlhxbpL: list indices must be integers or slices, not str
+2025-12-02 19:17:13 - __main__ - WARNING - Text analysis failed for post DL00cVzgKfd: list indices must be integers or slices, not str
+2025-12-02 19:17:14 - __main__ - WARNING - Text analysis failed for post DLlYxsdgmZK: list indices must be integers or slices, not str
+2025-12-02 19:17:15 - __main__ - WARNING - Text analysis failed for post DLas6cNRWzq: list indices must be integers or slices, not str
+2025-12-02 19:17:17 - __main__ - WARNING - Text analysis failed for post DLTOyC8AI1C: list indices must be integers or slices, not str
+2025-12-02 19:17:18 - __main__ - WARNING - Text analysis failed for post DLJHopLAc2R: list indices must be integers or slices, not str
+2025-12-02 19:17:21 - __main__ - WARNING - Text analysis failed for post DLD2tQlyeSu: list indices must be integers or slices, not str
+2025-12-02 19:17:22 - __main__ - WARNING - Text analysis failed for post DLBcq-Bg_Az: list indices must be integers or slices, not str
+2025-12-02 19:17:23 - __main__ - WARNING - Text analysis failed for post DK5WBD8hVg5: list indices must be integers or slices, not str
+2025-12-02 19:17:25 - __main__ - WARNING - Text analysis failed for post DK0YUM_AZrX: list indices must be integers or slices, not str
+2025-12-02 19:17:27 - __main__ - WARNING - Text analysis failed for post DKx6MOYgH5I: list indices must be integers or slices, not str
+2025-12-02 19:17:28 - __main__ - WARNING - Text analysis failed for post DKselR0h9VT: list indices must be integers or slices, not str
+2025-12-02 19:17:29 - __main__ - WARNING - Text analysis failed for post DKk7dd6gsCt: list indices must be integers or slices, not str
+2025-12-02 19:17:30 - __main__ - WARNING - Text analysis failed for post DKdMnlfgGtV: list indices must be integers or slices, not str
+2025-12-02 19:17:31 - __main__ - WARNING - Text analysis failed for post DKX5hw9hS_6: list indices must be integers or slices, not str
+2025-12-02 19:17:32 - __main__ - WARNING - Text analysis failed for post DKNxm1UM2wD: list indices must be integers or slices, not str
+2025-12-02 19:17:33 - __main__ - WARNING - Text analysis failed for post DKDIIqRR63L: list indices must be integers or slices, not str
+2025-12-02 19:17:34 - __main__ - WARNING - Text analysis failed for post DKA3KbmBVAq: list indices must be integers or slices, not str
+2025-12-02 19:17:36 - __main__ - WARNING - Text analysis failed for post DJ9R0BUAg00: list indices must be integers or slices, not str
+2025-12-02 19:17:37 - __main__ - WARNING - Text analysis failed for post DJ5Gdkggc78: list indices must be integers or slices, not str
+2025-12-02 19:17:39 - __main__ - WARNING - Text analysis failed for post DJra-6ngGKm: list indices must be integers or slices, not str
+2025-12-02 19:17:40 - __main__ - WARNING - Text analysis failed for post DJpFjvCg9Ej: list indices must be integers or slices, not str
+2025-12-02 19:17:42 - __main__ - WARNING - Text analysis failed for post DJmb-tSgqcm: list indices must be integers or slices, not str
+2025-12-02 19:17:44 - __main__ - WARNING - Text analysis failed for post DJj3HmRAT8L: list indices must be integers or slices, not str
+2025-12-02 19:17:46 - __main__ - WARNING - Text analysis failed for post DJSf3a0ghCZ: list indices must be integers or slices, not str
+2025-12-02 19:17:47 - __main__ - WARNING - Text analysis failed for post DJMqqt8Jj2I: list indices must be integers or slices, not str
+2025-12-02 19:17:48 - __main__ - WARNING - Text analysis failed for post DJAd5wRTTbI: list indices must be integers or slices, not str
+2025-12-02 19:17:49 - __main__ - WARNING - Text analysis failed for post DI9zLFszgRP: list indices must be integers or slices, not str
+2025-12-02 19:17:50 - __main__ - WARNING - Text analysis failed for post DI7cXrMz3cr: list indices must be integers or slices, not str
+2025-12-02 19:17:53 - __main__ - WARNING - Text analysis failed for post DI2KWOJzZpY: list indices must be integers or slices, not str
+2025-12-02 19:17:54 - __main__ - WARNING - Text analysis failed for post DIw3LZ4Bwo_: list indices must be integers or slices, not str
+2025-12-02 19:17:54 - __main__ - WARNING - Text analysis failed for post DIujO6dAhhy: list indices must be integers or slices, not str
+2025-12-02 19:17:56 - __main__ - WARNING - Text analysis failed for post DIpT7BKRHQh: list indices must be integers or slices, not str
+2025-12-02 19:17:58 - __main__ - WARNING - Text analysis failed for post DImyB2BxAsb: list indices must be integers or slices, not str
+2025-12-02 19:17:59 - __main__ - WARNING - Text analysis failed for post DIhvkeYTg1V: list indices must be integers or slices, not str
+2025-12-02 19:18:00 - __main__ - WARNING - Text analysis failed for post DIfJvAzTS-s: list indices must be integers or slices, not str
+2025-12-02 19:18:02 - __main__ - WARNING - Text analysis failed for post DIZ6e7NyncQ: list indices must be integers or slices, not str
+2025-12-02 19:18:03 - __main__ - WARNING - Text analysis failed for post DISPHJVg8XB: list indices must be integers or slices, not str
+2025-12-02 19:18:04 - __main__ - WARNING - Text analysis failed for post DINCmzMAmJs: list indices must be integers or slices, not str
+2025-12-02 19:18:07 - __main__ - WARNING - Text analysis failed for post DIFGuptT_KI: list indices must be integers or slices, not str
+2025-12-02 19:18:08 - __main__ - WARNING - Text analysis failed for post DICuBXfgNAf: list indices must be integers or slices, not str
+2025-12-02 19:18:09 - __main__ - WARNING - Text analysis failed for post DH65iw8xFBq: list indices must be integers or slices, not str
+2025-12-02 19:18:11 - __main__ - WARNING - Text analysis failed for post DHwwG_4AS5t: list indices must be integers or slices, not str
+2025-12-02 19:18:12 - __main__ - WARNING - Text analysis failed for post DHuX3QggDOK: list indices must be integers or slices, not str
+2025-12-02 19:18:13 - __main__ - WARNING - Text analysis failed for post DHrnRKjgV0z: list indices must be integers or slices, not str
+2025-12-02 19:18:14 - __main__ - WARNING - Text analysis failed for post DHo-IlZARzs: list indices must be integers or slices, not str
+2025-12-02 19:18:16 - __main__ - WARNING - Text analysis failed for post DHmbshcMdFQ: list indices must be integers or slices, not str
+2025-12-02 19:18:16 - __main__ - WARNING - Text analysis failed for post DHcHW8eA2V0: list indices must be integers or slices, not str
+2025-12-02 19:18:18 - __main__ - WARNING - Text analysis failed for post DHW91-bg9Kh: list indices must be integers or slices, not str
+2025-12-02 19:18:20 - __main__ - WARNING - Text analysis failed for post DHMmhyjBcxd: list indices must be integers or slices, not str
+2025-12-02 19:18:22 - __main__ - WARNING - Text analysis failed for post DHJx-X7pK97: list indices must be integers or slices, not str
+2025-12-02 19:18:23 - __main__ - WARNING - Text analysis failed for post DHH5jNagQu-: list indices must be integers or slices, not str
+2025-12-02 19:18:25 - __main__ - WARNING - Text analysis failed for post DHE79Bzgbnu: list indices must be integers or slices, not str
+2025-12-02 19:18:26 - __main__ - WARNING - Text analysis failed for post DHCV11KAnDs: list indices must be integers or slices, not str
+2025-12-02 19:18:27 - __main__ - WARNING - Text analysis failed for post DG_g-QWBnv3: list indices must be integers or slices, not str
+2025-12-02 19:18:30 - __main__ - WARNING - Text analysis failed for post DG6uwZKACNm: list indices must be integers or slices, not str
+2025-12-02 19:18:32 - __main__ - WARNING - Text analysis failed for post DG4GFWHAcLm: list indices must be integers or slices, not str
+2025-12-02 19:18:33 - __main__ - WARNING - Text analysis failed for post DG1rLC4gVnM: list indices must be integers or slices, not str
+2025-12-02 19:18:34 - __main__ - WARNING - Text analysis failed for post DGwbqZnALb_: list indices must be integers or slices, not str
+2025-12-02 19:18:35 - __main__ - WARNING - Text analysis failed for post DGmHeD5guU0: list indices must be integers or slices, not str
+2025-12-02 19:18:36 - __main__ - WARNING - Text analysis failed for post DGTYnOmRFJq: list indices must be integers or slices, not str
+2025-12-02 19:18:37 - __main__ - WARNING - Text analysis failed for post DGOzrsbRouX: list indices must be integers or slices, not str
+2025-12-02 19:18:38 - __main__ - WARNING - Text analysis failed for post DF_XH9PR0Xk: list indices must be integers or slices, not str
+2025-12-02 19:18:40 - __main__ - WARNING - Text analysis failed for post DFyJz3fRB5t: list indices must be integers or slices, not str
+2025-12-02 19:18:41 - __main__ - WARNING - Text analysis failed for post DFv6CM0Bbm6: list indices must be integers or slices, not str
+2025-12-02 19:18:45 - __main__ - WARNING - Text analysis failed for post DFqQSZpRqUQ: list indices must be integers or slices, not str
+2025-12-02 19:18:47 - __main__ - WARNING - Text analysis failed for post DFoIhDoBAC3: list indices must be integers or slices, not str
+2025-12-02 19:18:49 - __main__ - WARNING - Text analysis failed for post DFjcXVWgJ3G: list indices must be integers or slices, not str
+2025-12-02 19:18:50 - __main__ - WARNING - Text analysis failed for post DFf2EVcOFeq: list indices must be integers or slices, not str
+2025-12-02 19:18:51 - __main__ - WARNING - Text analysis failed for post DFd3ywrBlGo: list indices must be integers or slices, not str
+2025-12-02 19:18:52 - __main__ - WARNING - Text analysis failed for post DFbjHBbx78J: list indices must be integers or slices, not str
+2025-12-02 19:18:53 - __main__ - WARNING - Text analysis failed for post DFWKb21hQgI: list indices must be integers or slices, not str
+2025-12-02 19:18:54 - __main__ - WARNING - Text analysis failed for post DFObyqqBeRg: list indices must be integers or slices, not str
+2025-12-02 19:18:56 - __main__ - WARNING - Text analysis failed for post DFL2mY7BgU6: list indices must be integers or slices, not str
+2025-12-02 19:18:58 - __main__ - WARNING - Text analysis failed for post DFGiWrWBPOL: list indices must be integers or slices, not str
+2025-12-02 19:18:59 - __main__ - WARNING - Text analysis failed for post DFEGmvRhYWj: list indices must be integers or slices, not str
+2025-12-02 19:19:00 - __main__ - WARNING - Text analysis failed for post DE5zfkZh3Ha: list indices must be integers or slices, not str
+2025-12-02 19:19:01 - __main__ - WARNING - Text analysis failed for post DEyHFdJxxzl: list indices must be integers or slices, not str
+2025-12-02 19:19:03 - __main__ - WARNING - Text analysis failed for post DEtDTGgyn5R: list indices must be integers or slices, not str
+2025-12-02 19:19:05 - __main__ - WARNING - Text analysis failed for post DEn1vQ1yRDz: list indices must be integers or slices, not str
+2025-12-02 19:19:06 - __main__ - WARNING - Text analysis failed for post DEikYqLzKIZ: list indices must be integers or slices, not str
+2025-12-02 19:19:07 - __main__ - WARNING - Text analysis failed for post DEgIA6ry1Gi: list indices must be integers or slices, not str
+2025-12-02 19:19:09 - __main__ - WARNING - Text analysis failed for post DETQ5Dlxdc4: list indices must be integers or slices, not str
+2025-12-02 19:19:10 - __main__ - WARNING - Text analysis failed for post DEQyAFbxZ8k: list indices must be integers or slices, not str
+2025-12-02 19:19:12 - __main__ - WARNING - Text analysis failed for post DEGST4ITwpX: list indices must be integers or slices, not str
+2025-12-02 19:19:14 - __main__ - WARNING - Text analysis failed for post DDkSwWrPt7Q: list indices must be integers or slices, not str
+2025-12-02 19:19:15 - __main__ - WARNING - Text analysis failed for post DDh9a_8zS3A: list indices must be integers or slices, not str
+2025-12-02 19:19:16 - __main__ - WARNING - Text analysis failed for post DDfygWWv2_y: list indices must be integers or slices, not str
+2025-12-02 19:19:17 - __main__ - WARNING - Text analysis failed for post DDdLLaTBXPb: list indices must be integers or slices, not str
+2025-12-02 19:19:19 - __main__ - WARNING - Text analysis failed for post DDajQBJy9td: list indices must be integers or slices, not str
+2025-12-02 19:19:20 - __main__ - WARNING - Text analysis failed for post DDYCSQdSTp0: list indices must be integers or slices, not str
+2025-12-02 19:19:22 - __main__ - WARNING - Text analysis failed for post DDVbUGBSXdR: list indices must be integers or slices, not str
+2025-12-02 19:19:24 - __main__ - WARNING - Text analysis failed for post DDS0NzFzisV: list indices must be integers or slices, not str
+2025-12-02 19:19:25 - __main__ - WARNING - Text analysis failed for post DDNyqCvyZu_: list indices must be integers or slices, not str
+2025-12-02 19:19:27 - __main__ - WARNING - Text analysis failed for post DDH7NASPsRp: list indices must be integers or slices, not str
+2025-12-02 19:19:31 - __main__ - WARNING - Text analysis failed for post DDHwLTZvpc8: list indices must be integers or slices, not str
+2025-12-02 19:19:32 - __main__ - WARNING - Text analysis failed for post DDF_grCyDA_: list indices must be integers or slices, not str
+2025-12-02 19:19:32 - __main__ - INFO - Analyzing images...
+2025-12-02 19:19:32 - __main__ - INFO - Found 789 images
+2025-12-02 19:19:33 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 19:19:33 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 19:19:33 - __main__ - ERROR - Failed to analyze @mattrife: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 272, in main
+    print_results_summary(results)
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 188, in print_results_summary
+    print(f"\n📊 REPUTATION SCORE: {results['reputation_score']}/100")
+  File "D:\Python\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>
+2025-12-02 19:19:33 - __main__ - INFO - 
+2025-12-02 19:19:33 - __main__ - INFO - ======================================================================
+2025-12-02 19:19:33 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 19:19:33 - __main__ - INFO - ======================================================================
+2025-12-02 19:19:33 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 19:22:17 - __main__ - INFO - 
+2025-12-02 19:22:17 - __main__ - INFO - ======================================================================
+2025-12-02 19:22:17 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 19:22:17 - __main__ - INFO - ======================================================================
+2025-12-02 19:22:17 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 19:22:17 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 19:22:17 - __main__ - INFO - 
+2025-12-02 19:22:17 - __main__ - INFO - ======================================================================
+2025-12-02 19:22:17 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 19:22:17 - __main__ - INFO - ======================================================================
+2025-12-02 19:22:17 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 19:22:17 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 19:22:17 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 19:22:17 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 19:22:17 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 19:22:17 - __main__ - INFO -   Images: 796 files
+2025-12-02 19:22:17 - __main__ - INFO -   Videos: 94 files
+2025-12-02 19:22:17 - __main__ - INFO - 
+2025-12-02 19:22:17 - __main__ - INFO - ======================================================================
+2025-12-02 19:22:17 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 19:22:17 - __main__ - INFO - ======================================================================
+2025-12-02 19:22:17 - __main__ - INFO - 
+2025-12-02 19:22:17 - __main__ - INFO - ======================================================================
+2025-12-02 19:22:17 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 19:22:17 - __main__ - INFO - ======================================================================
+2025-12-02 19:22:17 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 19:22:17 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 19:22:17 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 19:22:22 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 19:22:22 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 19:22:23 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 19:22:23 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 19:22:23 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 19:22:23 - __main__ - INFO - Analyzing text content...
+2025-12-02 19:22:25 - __main__ - WARNING - Text analysis failed for post DRshXQCkd1B: list indices must be integers or slices, not str
+2025-12-02 19:22:26 - __main__ - WARNING - Text analysis failed for post DRp9R9Zkkwb: list indices must be integers or slices, not str
+2025-12-02 19:22:27 - __main__ - WARNING - Text analysis failed for post DRm5sNaCTz2: list indices must be integers or slices, not str
+2025-12-02 19:22:28 - __main__ - WARNING - Text analysis failed for post DRf0jkjkaHp: list indices must be integers or slices, not str
+2025-12-02 19:22:30 - __main__ - WARNING - Text analysis failed for post DRdo6GLgNHI: list indices must be integers or slices, not str
+2025-12-02 19:22:31 - __main__ - WARNING - Text analysis failed for post DRX8OpzgY7X: list indices must be integers or slices, not str
+2025-12-02 19:22:32 - __main__ - WARNING - Text analysis failed for post DRTCOu3gCxq: list indices must be integers or slices, not str
+2025-12-02 19:22:33 - __main__ - WARNING - Text analysis failed for post DRImnTekof7: list indices must be integers or slices, not str
+2025-12-02 19:22:35 - __main__ - WARNING - Text analysis failed for post DRDRnsgEmYi: list indices must be integers or slices, not str
+2025-12-02 19:22:36 - __main__ - WARNING - Text analysis failed for post DRBEVPcACjk: list indices must be integers or slices, not str
+2025-12-02 19:22:38 - __main__ - WARNING - Text analysis failed for post DQ4jj56ADsY: list indices must be integers or slices, not str
+2025-12-02 19:22:40 - __main__ - WARNING - Text analysis failed for post DQxnCHrgLbs: list indices must be integers or slices, not str
+2025-12-02 19:22:42 - __main__ - WARNING - Text analysis failed for post DQr6tcqkuGM: list indices must be integers or slices, not str
+2025-12-02 19:22:44 - __main__ - WARNING - Text analysis failed for post DQp5z-zgVBf: list indices must be integers or slices, not str
+2025-12-02 19:22:45 - __main__ - WARNING - Text analysis failed for post DQfxAI6kePl: list indices must be integers or slices, not str
+2025-12-02 19:22:46 - __main__ - WARNING - Text analysis failed for post DQX7JjhAc1S: list indices must be integers or slices, not str
+2025-12-02 19:22:47 - __main__ - WARNING - Text analysis failed for post DQNeScyEuyF: list indices must be integers or slices, not str
+2025-12-02 19:22:47 - __main__ - WARNING - Text analysis failed for post DQK199qDkds: list indices must be integers or slices, not str
+2025-12-02 19:22:48 - __main__ - WARNING - Text analysis failed for post DQIUhEdgEoO: list indices must be integers or slices, not str
+2025-12-02 19:22:50 - __main__ - WARNING - Text analysis failed for post DQDS2_KAQNI: list indices must be integers or slices, not str
+2025-12-02 19:22:50 - __main__ - WARNING - Text analysis failed for post DP43psqgPWL: list indices must be integers or slices, not str
+2025-12-02 19:22:51 - __main__ - WARNING - Text analysis failed for post DPzu24PEvpq: list indices must be integers or slices, not str
+2025-12-02 19:22:54 - __main__ - WARNING - Text analysis failed for post DPrlOOnkrM1: list indices must be integers or slices, not str
+2025-12-02 19:22:55 - __main__ - WARNING - Text analysis failed for post DPpcMNSgJoq: list indices must be integers or slices, not str
+2025-12-02 19:22:56 - __main__ - WARNING - Text analysis failed for post DPkNm09EyzY: list indices must be integers or slices, not str
+2025-12-02 19:22:57 - __main__ - WARNING - Text analysis failed for post DPeiDGVgHFf: list indices must be integers or slices, not str
+2025-12-02 19:22:58 - __main__ - WARNING - Text analysis failed for post DPXZoQuE5Wd: list indices must be integers or slices, not str
+2025-12-02 19:23:01 - __main__ - WARNING - Text analysis failed for post DPU8kTgEglj: list indices must be integers or slices, not str
+2025-12-02 19:23:02 - __main__ - WARNING - Text analysis failed for post DPR9kjJklT9: list indices must be integers or slices, not str
+2025-12-02 19:23:03 - __main__ - WARNING - Text analysis failed for post DPPrE0Lk3rt: list indices must be integers or slices, not str
+2025-12-02 19:23:05 - __main__ - WARNING - Text analysis failed for post DPALQvNgaae: list indices must be integers or slices, not str
+2025-12-02 19:23:05 - __main__ - WARNING - Text analysis failed for post DO9pgNxgYHK: list indices must be integers or slices, not str
+2025-12-02 19:23:08 - __main__ - WARNING - Text analysis failed for post DO6l82aASVw: list indices must be integers or slices, not str
+2025-12-02 19:23:09 - __main__ - WARNING - Text analysis failed for post DOw1ui3AEBf: list indices must be integers or slices, not str
+2025-12-02 19:23:11 - __main__ - WARNING - Text analysis failed for post DOuI8-fgdtw: list indices must be integers or slices, not str
+2025-12-02 19:23:12 - __main__ - WARNING - Text analysis failed for post DOrlqlWgbNX: list indices must be integers or slices, not str
+2025-12-02 19:23:14 - __main__ - WARNING - Text analysis failed for post DOogtWCD-na: list indices must be integers or slices, not str
+2025-12-02 19:23:16 - __main__ - WARNING - Text analysis failed for post DOeH5o1gIxS: list indices must be integers or slices, not str
+2025-12-02 19:23:17 - __main__ - WARNING - Text analysis failed for post DOW3-EXASux: list indices must be integers or slices, not str
+2025-12-02 19:23:18 - __main__ - WARNING - Text analysis failed for post DOUCXubkjC7: list indices must be integers or slices, not str
+2025-12-02 19:23:20 - __main__ - WARNING - Text analysis failed for post DOMo8BVkp5N: list indices must be integers or slices, not str
+2025-12-02 19:23:21 - __main__ - WARNING - Text analysis failed for post DOEoKDFknlE: list indices must be integers or slices, not str
+2025-12-02 19:23:24 - __main__ - WARNING - Text analysis failed for post DN9YMHjgD5T: list indices must be integers or slices, not str
+2025-12-02 19:23:26 - __main__ - WARNING - Text analysis failed for post DN61RYzAJF-: list indices must be integers or slices, not str
+2025-12-02 19:23:27 - __main__ - WARNING - Text analysis failed for post DN38_SQgdPr: list indices must be integers or slices, not str
+2025-12-02 19:23:28 - __main__ - WARNING - Text analysis failed for post DN1gNuCwnV4: list indices must be integers or slices, not str
+2025-12-02 19:23:30 - __main__ - WARNING - Text analysis failed for post DNjZ6ityk5X: list indices must be integers or slices, not str
+2025-12-02 19:23:32 - __main__ - WARNING - Text analysis failed for post DNZMLy0BMF2: list indices must be integers or slices, not str
+2025-12-02 19:23:34 - __main__ - WARNING - Text analysis failed for post DNWmAh8ylLn: list indices must be integers or slices, not str
+2025-12-02 19:23:36 - __main__ - WARNING - Text analysis failed for post DNQsj6MOrun: list indices must be integers or slices, not str
+2025-12-02 19:23:38 - __main__ - WARNING - Text analysis failed for post DNOynh5h4Yg: list indices must be integers or slices, not str
+2025-12-02 19:23:39 - __main__ - WARNING - Text analysis failed for post DNGzW2dMsRy: list indices must be integers or slices, not str
+2025-12-02 19:23:41 - __main__ - WARNING - Text analysis failed for post DNCDSNtybPW: list indices must be integers or slices, not str
+2025-12-02 19:23:43 - __main__ - WARNING - Text analysis failed for post DM8Vt6FA5yR: list indices must be integers or slices, not str
+2025-12-02 19:23:44 - __main__ - WARNING - Text analysis failed for post DM1S1wqPjwU: list indices must be integers or slices, not str
+2025-12-02 19:23:46 - __main__ - WARNING - Text analysis failed for post DM02fDXRMRd: list indices must be integers or slices, not str
+2025-12-02 19:23:47 - __main__ - WARNING - Text analysis failed for post DMyjJ_LxQ2J: list indices must be integers or slices, not str
+2025-12-02 19:23:49 - __main__ - WARNING - Text analysis failed for post DMq1CqfBxDx: list indices must be integers or slices, not str
+2025-12-02 19:23:50 - __main__ - WARNING - Text analysis failed for post DMgOTScxa6Q: list indices must be integers or slices, not str
+2025-12-02 19:23:52 - __main__ - WARNING - Text analysis failed for post DMbLLENBP9V: list indices must be integers or slices, not str
+2025-12-02 19:23:53 - __main__ - WARNING - Text analysis failed for post DMYyzenAxdW: list indices must be integers or slices, not str
+2025-12-02 19:23:54 - __main__ - WARNING - Text analysis failed for post DMJWVUvg5nI: list indices must be integers or slices, not str
+2025-12-02 19:23:55 - __main__ - WARNING - Text analysis failed for post DL8KFlhxbpL: list indices must be integers or slices, not str
+2025-12-02 19:23:56 - __main__ - WARNING - Text analysis failed for post DL00cVzgKfd: list indices must be integers or slices, not str
+2025-12-02 19:23:57 - __main__ - WARNING - Text analysis failed for post DLlYxsdgmZK: list indices must be integers or slices, not str
+2025-12-02 19:23:59 - __main__ - WARNING - Text analysis failed for post DLas6cNRWzq: list indices must be integers or slices, not str
+2025-12-02 19:24:00 - __main__ - WARNING - Text analysis failed for post DLTOyC8AI1C: list indices must be integers or slices, not str
+2025-12-02 19:24:01 - __main__ - WARNING - Text analysis failed for post DLJHopLAc2R: list indices must be integers or slices, not str
+2025-12-02 19:24:04 - __main__ - WARNING - Text analysis failed for post DLD2tQlyeSu: list indices must be integers or slices, not str
+2025-12-02 19:24:05 - __main__ - WARNING - Text analysis failed for post DLBcq-Bg_Az: list indices must be integers or slices, not str
+2025-12-02 19:24:07 - __main__ - WARNING - Text analysis failed for post DK5WBD8hVg5: list indices must be integers or slices, not str
+2025-12-02 19:24:08 - __main__ - WARNING - Text analysis failed for post DK0YUM_AZrX: list indices must be integers or slices, not str
+2025-12-02 19:24:09 - __main__ - WARNING - Text analysis failed for post DKx6MOYgH5I: list indices must be integers or slices, not str
+2025-12-02 19:24:11 - __main__ - WARNING - Text analysis failed for post DKselR0h9VT: list indices must be integers or slices, not str
+2025-12-02 19:24:12 - __main__ - WARNING - Text analysis failed for post DKk7dd6gsCt: list indices must be integers or slices, not str
+2025-12-02 19:24:13 - __main__ - WARNING - Text analysis failed for post DKdMnlfgGtV: list indices must be integers or slices, not str
+2025-12-02 19:24:14 - __main__ - WARNING - Text analysis failed for post DKX5hw9hS_6: list indices must be integers or slices, not str
+2025-12-02 19:24:15 - __main__ - WARNING - Text analysis failed for post DKNxm1UM2wD: list indices must be integers or slices, not str
+2025-12-02 19:24:16 - __main__ - WARNING - Text analysis failed for post DKDIIqRR63L: list indices must be integers or slices, not str
+2025-12-02 19:24:17 - __main__ - WARNING - Text analysis failed for post DKA3KbmBVAq: list indices must be integers or slices, not str
+2025-12-02 19:24:18 - __main__ - WARNING - Text analysis failed for post DJ9R0BUAg00: list indices must be integers or slices, not str
+2025-12-02 19:24:20 - __main__ - WARNING - Text analysis failed for post DJ5Gdkggc78: list indices must be integers or slices, not str
+2025-12-02 19:24:21 - __main__ - WARNING - Text analysis failed for post DJra-6ngGKm: list indices must be integers or slices, not str
+2025-12-02 19:24:23 - __main__ - WARNING - Text analysis failed for post DJpFjvCg9Ej: list indices must be integers or slices, not str
+2025-12-02 19:24:24 - __main__ - WARNING - Text analysis failed for post DJmb-tSgqcm: list indices must be integers or slices, not str
+2025-12-02 19:24:26 - __main__ - WARNING - Text analysis failed for post DJj3HmRAT8L: list indices must be integers or slices, not str
+2025-12-02 19:24:28 - __main__ - WARNING - Text analysis failed for post DJSf3a0ghCZ: list indices must be integers or slices, not str
+2025-12-02 19:24:29 - __main__ - WARNING - Text analysis failed for post DJMqqt8Jj2I: list indices must be integers or slices, not str
+2025-12-02 19:24:30 - __main__ - WARNING - Text analysis failed for post DJAd5wRTTbI: list indices must be integers or slices, not str
+2025-12-02 19:24:31 - __main__ - WARNING - Text analysis failed for post DI9zLFszgRP: list indices must be integers or slices, not str
+2025-12-02 19:24:32 - __main__ - WARNING - Text analysis failed for post DI7cXrMz3cr: list indices must be integers or slices, not str
+2025-12-02 19:24:35 - __main__ - WARNING - Text analysis failed for post DI2KWOJzZpY: list indices must be integers or slices, not str
+2025-12-02 19:24:38 - __main__ - WARNING - Text analysis failed for post DIw3LZ4Bwo_: list indices must be integers or slices, not str
+2025-12-02 19:24:39 - __main__ - WARNING - Text analysis failed for post DIujO6dAhhy: list indices must be integers or slices, not str
+2025-12-02 19:24:42 - __main__ - WARNING - Text analysis failed for post DIpT7BKRHQh: list indices must be integers or slices, not str
+2025-12-02 19:24:43 - __main__ - WARNING - Text analysis failed for post DImyB2BxAsb: list indices must be integers or slices, not str
+2025-12-02 19:24:44 - __main__ - WARNING - Text analysis failed for post DIhvkeYTg1V: list indices must be integers or slices, not str
+2025-12-02 19:24:46 - __main__ - WARNING - Text analysis failed for post DIfJvAzTS-s: list indices must be integers or slices, not str
+2025-12-02 19:24:47 - __main__ - WARNING - Text analysis failed for post DIZ6e7NyncQ: list indices must be integers or slices, not str
+2025-12-02 19:24:48 - __main__ - WARNING - Text analysis failed for post DISPHJVg8XB: list indices must be integers or slices, not str
+2025-12-02 19:24:50 - __main__ - WARNING - Text analysis failed for post DINCmzMAmJs: list indices must be integers or slices, not str
+2025-12-02 19:24:52 - __main__ - WARNING - Text analysis failed for post DIFGuptT_KI: list indices must be integers or slices, not str
+2025-12-02 19:24:54 - __main__ - WARNING - Text analysis failed for post DICuBXfgNAf: list indices must be integers or slices, not str
+2025-12-02 19:24:54 - __main__ - WARNING - Text analysis failed for post DH65iw8xFBq: list indices must be integers or slices, not str
+2025-12-02 19:24:56 - __main__ - WARNING - Text analysis failed for post DHwwG_4AS5t: list indices must be integers or slices, not str
+2025-12-02 19:24:57 - __main__ - WARNING - Text analysis failed for post DHuX3QggDOK: list indices must be integers or slices, not str
+2025-12-02 19:24:58 - __main__ - WARNING - Text analysis failed for post DHrnRKjgV0z: list indices must be integers or slices, not str
+2025-12-02 19:24:59 - __main__ - WARNING - Text analysis failed for post DHo-IlZARzs: list indices must be integers or slices, not str
+2025-12-02 19:25:01 - __main__ - WARNING - Text analysis failed for post DHmbshcMdFQ: list indices must be integers or slices, not str
+2025-12-02 19:25:02 - __main__ - WARNING - Text analysis failed for post DHcHW8eA2V0: list indices must be integers or slices, not str
+2025-12-02 19:25:03 - __main__ - WARNING - Text analysis failed for post DHW91-bg9Kh: list indices must be integers or slices, not str
+2025-12-02 19:25:06 - __main__ - WARNING - Text analysis failed for post DHMmhyjBcxd: list indices must be integers or slices, not str
+2025-12-02 19:25:07 - __main__ - WARNING - Text analysis failed for post DHJx-X7pK97: list indices must be integers or slices, not str
+2025-12-02 19:25:09 - __main__ - WARNING - Text analysis failed for post DHH5jNagQu-: list indices must be integers or slices, not str
+2025-12-02 19:25:10 - __main__ - WARNING - Text analysis failed for post DHE79Bzgbnu: list indices must be integers or slices, not str
+2025-12-02 19:25:11 - __main__ - WARNING - Text analysis failed for post DHCV11KAnDs: list indices must be integers or slices, not str
+2025-12-02 19:25:12 - __main__ - WARNING - Text analysis failed for post DG_g-QWBnv3: list indices must be integers or slices, not str
+2025-12-02 19:25:16 - __main__ - WARNING - Text analysis failed for post DG6uwZKACNm: list indices must be integers or slices, not str
+2025-12-02 19:25:17 - __main__ - WARNING - Text analysis failed for post DG4GFWHAcLm: list indices must be integers or slices, not str
+2025-12-02 19:25:18 - __main__ - WARNING - Text analysis failed for post DG1rLC4gVnM: list indices must be integers or slices, not str
+2025-12-02 19:25:19 - __main__ - WARNING - Text analysis failed for post DGwbqZnALb_: list indices must be integers or slices, not str
+2025-12-02 19:25:20 - __main__ - WARNING - Text analysis failed for post DGmHeD5guU0: list indices must be integers or slices, not str
+2025-12-02 19:25:21 - __main__ - WARNING - Text analysis failed for post DGTYnOmRFJq: list indices must be integers or slices, not str
+2025-12-02 19:25:22 - __main__ - WARNING - Text analysis failed for post DGOzrsbRouX: list indices must be integers or slices, not str
+2025-12-02 19:25:23 - __main__ - WARNING - Text analysis failed for post DF_XH9PR0Xk: list indices must be integers or slices, not str
+2025-12-02 19:25:25 - __main__ - WARNING - Text analysis failed for post DFyJz3fRB5t: list indices must be integers or slices, not str
+2025-12-02 19:25:26 - __main__ - WARNING - Text analysis failed for post DFv6CM0Bbm6: list indices must be integers or slices, not str
+2025-12-02 19:25:30 - __main__ - WARNING - Text analysis failed for post DFqQSZpRqUQ: list indices must be integers or slices, not str
+2025-12-02 19:25:31 - __main__ - WARNING - Text analysis failed for post DFoIhDoBAC3: list indices must be integers or slices, not str
+2025-12-02 19:25:33 - __main__ - WARNING - Text analysis failed for post DFjcXVWgJ3G: list indices must be integers or slices, not str
+2025-12-02 19:25:34 - __main__ - WARNING - Text analysis failed for post DFf2EVcOFeq: list indices must be integers or slices, not str
+2025-12-02 19:25:35 - __main__ - WARNING - Text analysis failed for post DFd3ywrBlGo: list indices must be integers or slices, not str
+2025-12-02 19:25:37 - __main__ - WARNING - Text analysis failed for post DFbjHBbx78J: list indices must be integers or slices, not str
+2025-12-02 19:25:38 - __main__ - WARNING - Text analysis failed for post DFWKb21hQgI: list indices must be integers or slices, not str
+2025-12-02 19:25:39 - __main__ - WARNING - Text analysis failed for post DFObyqqBeRg: list indices must be integers or slices, not str
+2025-12-02 19:25:40 - __main__ - WARNING - Text analysis failed for post DFL2mY7BgU6: list indices must be integers or slices, not str
+2025-12-02 19:25:42 - __main__ - WARNING - Text analysis failed for post DFGiWrWBPOL: list indices must be integers or slices, not str
+2025-12-02 19:25:43 - __main__ - WARNING - Text analysis failed for post DFEGmvRhYWj: list indices must be integers or slices, not str
+2025-12-02 19:25:44 - __main__ - WARNING - Text analysis failed for post DE5zfkZh3Ha: list indices must be integers or slices, not str
+2025-12-02 19:25:46 - __main__ - WARNING - Text analysis failed for post DEyHFdJxxzl: list indices must be integers or slices, not str
+2025-12-02 19:25:47 - __main__ - WARNING - Text analysis failed for post DEtDTGgyn5R: list indices must be integers or slices, not str
+2025-12-02 19:25:49 - __main__ - WARNING - Text analysis failed for post DEn1vQ1yRDz: list indices must be integers or slices, not str
+2025-12-02 19:25:50 - __main__ - WARNING - Text analysis failed for post DEikYqLzKIZ: list indices must be integers or slices, not str
+2025-12-02 19:25:51 - __main__ - WARNING - Text analysis failed for post DEgIA6ry1Gi: list indices must be integers or slices, not str
+2025-12-02 19:25:53 - __main__ - WARNING - Text analysis failed for post DETQ5Dlxdc4: list indices must be integers or slices, not str
+2025-12-02 19:25:54 - __main__ - WARNING - Text analysis failed for post DEQyAFbxZ8k: list indices must be integers or slices, not str
+2025-12-02 19:25:56 - __main__ - WARNING - Text analysis failed for post DEGST4ITwpX: list indices must be integers or slices, not str
+2025-12-02 19:25:58 - __main__ - WARNING - Text analysis failed for post DDkSwWrPt7Q: list indices must be integers or slices, not str
+2025-12-02 19:25:59 - __main__ - WARNING - Text analysis failed for post DDh9a_8zS3A: list indices must be integers or slices, not str
+2025-12-02 19:26:00 - __main__ - WARNING - Text analysis failed for post DDfygWWv2_y: list indices must be integers or slices, not str
+2025-12-02 19:26:01 - __main__ - WARNING - Text analysis failed for post DDdLLaTBXPb: list indices must be integers or slices, not str
+2025-12-02 19:26:03 - __main__ - WARNING - Text analysis failed for post DDajQBJy9td: list indices must be integers or slices, not str
+2025-12-02 19:26:04 - __main__ - WARNING - Text analysis failed for post DDYCSQdSTp0: list indices must be integers or slices, not str
+2025-12-02 19:26:06 - __main__ - WARNING - Text analysis failed for post DDVbUGBSXdR: list indices must be integers or slices, not str
+2025-12-02 19:26:08 - __main__ - WARNING - Text analysis failed for post DDS0NzFzisV: list indices must be integers or slices, not str
+2025-12-02 19:26:09 - __main__ - WARNING - Text analysis failed for post DDNyqCvyZu_: list indices must be integers or slices, not str
+2025-12-02 19:26:10 - __main__ - WARNING - Text analysis failed for post DDH7NASPsRp: list indices must be integers or slices, not str
+2025-12-02 19:26:15 - __main__ - WARNING - Text analysis failed for post DDHwLTZvpc8: list indices must be integers or slices, not str
+2025-12-02 19:26:16 - __main__ - WARNING - Text analysis failed for post DDF_grCyDA_: list indices must be integers or slices, not str
+2025-12-02 19:26:16 - __main__ - INFO - Analyzing images...
+2025-12-02 19:26:16 - __main__ - INFO - Found 789 images
+2025-12-02 19:26:16 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 19:26:16 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 19:26:16 - __main__ - ERROR - Failed to analyze @mattrife: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 272, in main
+    print_results_summary(results)
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 188, in print_results_summary
+    print(f"\n📊 REPUTATION SCORE: {results['reputation_score']}/100")
+  File "D:\Python\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>
+2025-12-02 19:26:16 - __main__ - INFO - 
+2025-12-02 19:26:16 - __main__ - INFO - ======================================================================
+2025-12-02 19:26:16 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 19:26:16 - __main__ - INFO - ======================================================================
+2025-12-02 19:26:16 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 19:28:21 - __main__ - INFO - 
+2025-12-02 19:28:21 - __main__ - INFO - ======================================================================
+2025-12-02 19:28:21 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 19:28:21 - __main__ - INFO - ======================================================================
+2025-12-02 19:28:21 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 19:28:21 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 19:28:21 - __main__ - INFO - 
+2025-12-02 19:28:21 - __main__ - INFO - ======================================================================
+2025-12-02 19:28:21 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 19:28:21 - __main__ - INFO - ======================================================================
+2025-12-02 19:28:21 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 19:28:22 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 19:28:22 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 19:28:22 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 19:28:22 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 19:28:22 - __main__ - INFO -   Images: 796 files
+2025-12-02 19:28:22 - __main__ - INFO -   Videos: 94 files
+2025-12-02 19:28:22 - __main__ - INFO - 
+2025-12-02 19:28:22 - __main__ - INFO - ======================================================================
+2025-12-02 19:28:22 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 19:28:22 - __main__ - INFO - ======================================================================
+2025-12-02 19:28:22 - __main__ - INFO - 
+2025-12-02 19:28:22 - __main__ - INFO - ======================================================================
+2025-12-02 19:28:22 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 19:28:22 - __main__ - INFO - ======================================================================
+2025-12-02 19:28:22 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 19:28:22 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 19:28:22 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 19:28:25 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 19:28:25 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 19:28:27 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 19:28:27 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 19:28:27 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 19:28:27 - __main__ - INFO - Analyzing text content...
+2025-12-02 19:32:38 - __main__ - INFO - Analyzing images...
+2025-12-02 19:32:38 - __main__ - INFO - Found 789 images
+2025-12-02 19:32:40 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 19:32:40 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 19:32:40 - __main__ - ERROR - Failed to analyze @mattrife: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 272, in main
+    print_results_summary(results)
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 188, in print_results_summary
+    print(f"\n📊 REPUTATION SCORE: {results['reputation_score']}/100")
+  File "D:\Python\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>
+2025-12-02 19:32:40 - __main__ - INFO - 
+2025-12-02 19:32:40 - __main__ - INFO - ======================================================================
+2025-12-02 19:32:40 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 19:32:40 - __main__ - INFO - ======================================================================
+2025-12-02 19:32:40 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 20:27:59 - __main__ - INFO - 
+2025-12-02 20:27:59 - __main__ - INFO - ======================================================================
+2025-12-02 20:27:59 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 20:27:59 - __main__ - INFO - ======================================================================
+2025-12-02 20:27:59 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 20:27:59 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 20:27:59 - __main__ - INFO - 
+2025-12-02 20:27:59 - __main__ - INFO - ======================================================================
+2025-12-02 20:27:59 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 20:27:59 - __main__ - INFO - ======================================================================
+2025-12-02 20:27:59 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 20:27:59 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 20:27:59 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 20:27:59 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 20:27:59 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 20:27:59 - __main__ - INFO -   Images: 796 files
+2025-12-02 20:27:59 - __main__ - INFO -   Videos: 94 files
+2025-12-02 20:27:59 - __main__ - INFO - 
+2025-12-02 20:27:59 - __main__ - INFO - ======================================================================
+2025-12-02 20:27:59 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 20:27:59 - __main__ - INFO - ======================================================================
+2025-12-02 20:27:59 - __main__ - INFO - 
+2025-12-02 20:27:59 - __main__ - INFO - ======================================================================
+2025-12-02 20:27:59 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 20:27:59 - __main__ - INFO - ======================================================================
+2025-12-02 20:27:59 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 20:27:59 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 20:27:59 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 20:28:02 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 20:28:02 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 20:28:03 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 20:28:03 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 20:28:03 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 20:28:03 - __main__ - INFO - Analyzing text content...
+2025-12-02 20:32:03 - __main__ - INFO - Analyzing images...
+2025-12-02 20:32:03 - __main__ - INFO - Found 789 images
+2025-12-02 20:32:04 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 20:32:04 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 20:32:04 - __main__ - INFO - 
+2025-12-02 20:32:04 - __main__ - INFO - ======================================================================
+2025-12-02 20:32:04 - __main__ - INFO -   STAGE 4: CLEANUP
+2025-12-02 20:32:04 - __main__ - INFO - ======================================================================
+2025-12-02 20:32:04 - src.utils.storage - INFO - Deleted 94 videos, freed 1.10 GB
+2025-12-02 20:32:04 - src.utils.storage - INFO - Total space freed: 1.10 GB
+2025-12-02 20:32:04 - src.utils.storage - INFO - ==================================================
+2025-12-02 20:32:04 - src.utils.storage - INFO - STORAGE USAGE REPORT
+2025-12-02 20:32:04 - src.utils.storage - INFO - ==================================================
+2025-12-02 20:32:04 - src.utils.storage - INFO - Images........................       113.51 MB
+2025-12-02 20:32:04 - src.utils.storage - INFO - Videos........................          0.00 B
+2025-12-02 20:32:04 - src.utils.storage - INFO - Dataset Total.................       114.19 MB
+2025-12-02 20:32:04 - src.utils.storage - INFO - ==================================================
+2025-12-02 20:32:04 - __main__ - INFO - 
+Analysis complete for @mattrife
+2025-12-02 20:32:04 - __main__ - INFO - 
+2025-12-02 20:32:04 - __main__ - INFO - ======================================================================
+2025-12-02 20:32:04 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 20:32:04 - __main__ - INFO - ======================================================================
+2025-12-02 20:32:04 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 20:57:35 - __main__ - INFO - 
+2025-12-02 20:57:35 - __main__ - INFO - ======================================================================
+2025-12-02 20:57:35 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 20:57:35 - __main__ - INFO - ======================================================================
+2025-12-02 20:57:35 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 20:57:35 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 20:57:35 - __main__ - INFO - 
+2025-12-02 20:57:35 - __main__ - INFO - ======================================================================
+2025-12-02 20:57:35 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 20:57:35 - __main__ - INFO - ======================================================================
+2025-12-02 20:57:35 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 20:57:35 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 20:57:35 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 20:57:35 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 20:57:35 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 20:57:35 - __main__ - INFO -   Images: 796 files
+2025-12-02 20:57:35 - __main__ - INFO -   Videos: 0 files
+2025-12-02 20:57:35 - __main__ - INFO - 
+2025-12-02 20:57:35 - __main__ - INFO - ======================================================================
+2025-12-02 20:57:35 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 20:57:35 - __main__ - INFO - ======================================================================
+2025-12-02 20:57:35 - __main__ - INFO - 
+2025-12-02 20:57:35 - __main__ - INFO - ======================================================================
+2025-12-02 20:57:35 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 20:57:35 - __main__ - INFO - ======================================================================
+2025-12-02 20:57:35 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 20:57:35 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 20:57:35 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 20:57:39 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 20:57:39 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 20:57:42 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 20:57:42 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 20:57:42 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 20:57:42 - __main__ - INFO - Analyzing text content...
+2025-12-02 21:02:38 - __main__ - INFO - Analyzing images...
+2025-12-02 21:02:38 - __main__ - INFO - Found 789 images
+2025-12-02 21:02:39 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 21:02:39 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 21:02:39 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 21:02:39 - __main__ - ERROR - Error analyzing brand fit for example_fitness_brand.json: 'name'
+2025-12-02 21:02:39 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 21:02:39 - __main__ - ERROR - Failed to analyze @mattrife: 'charmap' codec can't encode characters in position 5-6: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 297, in main
+    print_results_summary(results)
+  File "C:\Users\user\Desktop\FYP\src\pipeline\run_full_pipeline.py", line 232, in print_results_summary
+    print(f"     ⚠️ Risks: {', '.join(fit['risk_factors'][:2])}")
+  File "D:\Python\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 5-6: character maps to <undefined>
+2025-12-02 21:02:39 - __main__ - INFO - 
+2025-12-02 21:02:39 - __main__ - INFO - ======================================================================
+2025-12-02 21:02:39 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 21:02:39 - __main__ - INFO - ======================================================================
+2025-12-02 21:02:39 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 21:04:46 - __main__ - INFO - 
+2025-12-02 21:04:46 - __main__ - INFO - ======================================================================
+2025-12-02 21:04:46 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 21:04:46 - __main__ - INFO - ======================================================================
+2025-12-02 21:04:46 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 21:04:46 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 21:04:46 - __main__ - INFO - 
+2025-12-02 21:04:46 - __main__ - INFO - ======================================================================
+2025-12-02 21:04:46 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 21:04:46 - __main__ - INFO - ======================================================================
+2025-12-02 21:04:46 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 21:04:47 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 21:04:47 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 21:04:47 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 21:04:47 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 21:04:47 - __main__ - INFO -   Images: 796 files
+2025-12-02 21:04:47 - __main__ - INFO -   Videos: 0 files
+2025-12-02 21:04:47 - __main__ - INFO - 
+2025-12-02 21:04:47 - __main__ - INFO - ======================================================================
+2025-12-02 21:04:47 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 21:04:47 - __main__ - INFO - ======================================================================
+2025-12-02 21:04:47 - __main__ - INFO - 
+2025-12-02 21:04:47 - __main__ - INFO - ======================================================================
+2025-12-02 21:04:47 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 21:04:47 - __main__ - INFO - ======================================================================
+2025-12-02 21:04:47 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 21:04:47 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 21:04:47 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 21:04:49 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 21:04:49 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 21:04:51 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 21:04:51 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 21:04:51 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 21:04:51 - __main__ - INFO - Analyzing text content...
+2025-12-02 21:09:57 - __main__ - INFO - Analyzing images...
+2025-12-02 21:09:57 - __main__ - INFO - Found 789 images
+2025-12-02 21:09:57 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 21:09:57 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 21:09:57 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 21:09:57 - __main__ - ERROR - Error analyzing brand fit for example_fitness_brand.json: 'name'
+2025-12-02 21:09:57 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 21:09:57 - __main__ - INFO - 
+2025-12-02 21:09:57 - __main__ - INFO - ======================================================================
+2025-12-02 21:09:57 - __main__ - INFO -   STAGE 4: CLEANUP
+2025-12-02 21:09:57 - __main__ - INFO - ======================================================================
+2025-12-02 21:09:57 - src.utils.storage - INFO - Deleted 0 videos, freed 0.00 B
+2025-12-02 21:09:57 - src.utils.storage - INFO - Total space freed: 0.00 B
+2025-12-02 21:09:57 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:09:57 - src.utils.storage - INFO - STORAGE USAGE REPORT
+2025-12-02 21:09:57 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:09:58 - src.utils.storage - INFO - Images........................       113.51 MB
+2025-12-02 21:09:58 - src.utils.storage - INFO - Videos........................          0.00 B
+2025-12-02 21:09:58 - src.utils.storage - INFO - Dataset Total.................       114.19 MB
+2025-12-02 21:09:58 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:09:58 - __main__ - INFO - 
+Analysis complete for @mattrife
+2025-12-02 21:09:58 - __main__ - INFO - 
+2025-12-02 21:09:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:09:58 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 21:09:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:09:58 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 21:11:21 - __main__ - INFO - 
+2025-12-02 21:11:21 - __main__ - INFO - ======================================================================
+2025-12-02 21:11:21 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 21:11:21 - __main__ - INFO - ======================================================================
+2025-12-02 21:11:21 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 21:11:21 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 21:11:21 - __main__ - INFO - 
+2025-12-02 21:11:21 - __main__ - INFO - ======================================================================
+2025-12-02 21:11:21 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 21:11:21 - __main__ - INFO - ======================================================================
+2025-12-02 21:11:21 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 21:11:21 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 21:11:21 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 21:11:21 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 21:11:21 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 21:11:21 - __main__ - INFO -   Images: 796 files
+2025-12-02 21:11:21 - __main__ - INFO -   Videos: 0 files
+2025-12-02 21:11:21 - __main__ - INFO - 
+2025-12-02 21:11:21 - __main__ - INFO - ======================================================================
+2025-12-02 21:11:21 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 21:11:21 - __main__ - INFO - ======================================================================
+2025-12-02 21:11:21 - __main__ - INFO - 
+2025-12-02 21:11:21 - __main__ - INFO - ======================================================================
+2025-12-02 21:11:21 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 21:11:21 - __main__ - INFO - ======================================================================
+2025-12-02 21:11:21 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 21:11:21 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 21:11:21 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 21:11:24 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 21:11:24 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 21:11:26 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 21:11:26 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 21:11:26 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 21:11:26 - __main__ - INFO - Analyzing text content...
+2025-12-02 21:15:32 - __main__ - INFO - Analyzing images...
+2025-12-02 21:15:32 - __main__ - INFO - Found 789 images
+2025-12-02 21:15:32 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 21:15:32 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 21:15:32 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 21:15:32 - __main__ - ERROR - Error analyzing brand fit for example_fitness_brand.json: 'name'
+2025-12-02 21:15:32 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 21:15:32 - __main__ - INFO - 
+2025-12-02 21:15:32 - __main__ - INFO - ======================================================================
+2025-12-02 21:15:32 - __main__ - INFO -   STAGE 4: CLEANUP
+2025-12-02 21:15:32 - __main__ - INFO - ======================================================================
+2025-12-02 21:15:32 - src.utils.storage - INFO - Deleted 0 videos, freed 0.00 B
+2025-12-02 21:15:32 - src.utils.storage - INFO - Total space freed: 0.00 B
+2025-12-02 21:15:32 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:15:32 - src.utils.storage - INFO - STORAGE USAGE REPORT
+2025-12-02 21:15:32 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:15:33 - src.utils.storage - INFO - Images........................       113.51 MB
+2025-12-02 21:15:33 - src.utils.storage - INFO - Videos........................          0.00 B
+2025-12-02 21:15:33 - src.utils.storage - INFO - Dataset Total.................       114.19 MB
+2025-12-02 21:15:33 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:15:33 - __main__ - INFO - 
+Analysis complete for @mattrife
+2025-12-02 21:15:33 - __main__ - INFO - 
+2025-12-02 21:15:33 - __main__ - INFO - ======================================================================
+2025-12-02 21:15:33 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 21:15:33 - __main__ - INFO - ======================================================================
+2025-12-02 21:15:33 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 21:19:40 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 21:19:40 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 21:19:58 - __main__ - INFO - 
+2025-12-02 21:19:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:19:58 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 21:19:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:19:58 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 21:19:58 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 21:19:58 - __main__ - INFO - 
+2025-12-02 21:19:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:19:58 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 21:19:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:19:58 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 21:19:58 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 21:19:58 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 21:19:58 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 21:19:58 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 21:19:58 - __main__ - INFO -   Images: 796 files
+2025-12-02 21:19:58 - __main__ - INFO -   Videos: 0 files
+2025-12-02 21:19:58 - __main__ - INFO - 
+2025-12-02 21:19:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:19:58 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 21:19:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:19:58 - __main__ - INFO - 
+2025-12-02 21:19:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:19:58 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 21:19:58 - __main__ - INFO - ======================================================================
+2025-12-02 21:19:58 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 21:19:58 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 21:19:58 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 21:20:01 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 21:20:01 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 21:20:03 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 21:20:03 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 21:20:03 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 21:20:03 - __main__ - INFO - Analyzing text content...
+2025-12-02 21:25:03 - __main__ - INFO - Analyzing images...
+2025-12-02 21:25:03 - __main__ - INFO - Found 789 images
+2025-12-02 21:25:03 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 21:25:03 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 21:25:03 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 21:25:03 - __main__ - ERROR - Error analyzing brand fit for example_fitness_brand.json: 'name'
+2025-12-02 21:25:04 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 21:25:04 - __main__ - INFO - 
+2025-12-02 21:25:04 - __main__ - INFO - ======================================================================
+2025-12-02 21:25:04 - __main__ - INFO -   STAGE 4: CLEANUP
+2025-12-02 21:25:04 - __main__ - INFO - ======================================================================
+2025-12-02 21:25:04 - src.utils.storage - INFO - Deleted 0 videos, freed 0.00 B
+2025-12-02 21:25:04 - src.utils.storage - INFO - Total space freed: 0.00 B
+2025-12-02 21:25:04 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:25:04 - src.utils.storage - INFO - STORAGE USAGE REPORT
+2025-12-02 21:25:04 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:25:04 - src.utils.storage - INFO - Images........................       113.51 MB
+2025-12-02 21:25:04 - src.utils.storage - INFO - Videos........................          0.00 B
+2025-12-02 21:25:04 - src.utils.storage - INFO - Dataset Total.................       114.19 MB
+2025-12-02 21:25:04 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:25:04 - __main__ - INFO - 
+Analysis complete for @mattrife
+2025-12-02 21:25:04 - __main__ - INFO - 
+2025-12-02 21:25:04 - __main__ - INFO - ======================================================================
+2025-12-02 21:25:04 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 21:25:04 - __main__ - INFO - ======================================================================
+2025-12-02 21:25:04 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 21:35:37 - __main__ - INFO - 
+2025-12-02 21:35:37 - __main__ - INFO - ======================================================================
+2025-12-02 21:35:37 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 21:35:37 - __main__ - INFO - ======================================================================
+2025-12-02 21:35:37 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 21:35:37 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 21:35:37 - __main__ - INFO - 
+2025-12-02 21:35:37 - __main__ - INFO - ======================================================================
+2025-12-02 21:35:37 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 21:35:37 - __main__ - INFO - ======================================================================
+2025-12-02 21:35:37 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 21:35:38 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 21:35:38 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 21:35:38 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 21:35:38 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 21:35:38 - __main__ - INFO -   Images: 796 files
+2025-12-02 21:35:38 - __main__ - INFO -   Videos: 0 files
+2025-12-02 21:35:38 - __main__ - INFO - 
+2025-12-02 21:35:38 - __main__ - INFO - ======================================================================
+2025-12-02 21:35:38 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 21:35:38 - __main__ - INFO - ======================================================================
+2025-12-02 21:35:38 - __main__ - INFO - 
+2025-12-02 21:35:38 - __main__ - INFO - ======================================================================
+2025-12-02 21:35:38 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 21:35:38 - __main__ - INFO - ======================================================================
+2025-12-02 21:35:38 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 21:35:38 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 21:35:38 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 21:35:40 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 21:35:40 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 21:35:42 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 21:35:42 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 21:35:42 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 21:35:42 - __main__ - INFO - Analyzing text content...
+2025-12-02 21:40:03 - __main__ - INFO - Analyzing images...
+2025-12-02 21:40:03 - __main__ - INFO - Found 789 images
+2025-12-02 21:40:04 - __main__ - INFO - Analyzing videos...
+2025-12-02 21:40:04 - src.models.video_analysis - INFO - Initializing VideoAnalyzer
+2025-12-02 21:40:04 - src.models.audio_analysis - INFO - Loading Whisper model: tiny on cpu
+2025-12-02 21:40:05 - src.models.audio_analysis - INFO - Whisper model loaded successfully
+2025-12-02 21:40:05 - __main__ - INFO - Found 0 videos
+2025-12-02 21:40:05 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 21:40:05 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 21:40:05 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 21:40:05 - __main__ - ERROR - Error analyzing brand fit for example_fitness_brand.json: 'name'
+2025-12-02 21:40:05 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 21:40:05 - __main__ - INFO - 
+2025-12-02 21:40:05 - __main__ - INFO - ======================================================================
+2025-12-02 21:40:05 - __main__ - INFO -   STAGE 4: CLEANUP
+2025-12-02 21:40:05 - __main__ - INFO - ======================================================================
+2025-12-02 21:40:05 - src.utils.storage - INFO - Deleted 0 videos, freed 0.00 B
+2025-12-02 21:40:05 - src.utils.storage - INFO - Total space freed: 0.00 B
+2025-12-02 21:40:05 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:40:05 - src.utils.storage - INFO - STORAGE USAGE REPORT
+2025-12-02 21:40:05 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:40:06 - src.utils.storage - INFO - Images........................       113.51 MB
+2025-12-02 21:40:06 - src.utils.storage - INFO - Videos........................          0.00 B
+2025-12-02 21:40:06 - src.utils.storage - INFO - Dataset Total.................       114.19 MB
+2025-12-02 21:40:06 - src.utils.storage - INFO - ==================================================
+2025-12-02 21:40:06 - __main__ - INFO - 
+Analysis complete for @mattrife
+2025-12-02 21:40:06 - __main__ - INFO - 
+2025-12-02 21:40:06 - __main__ - INFO - ======================================================================
+2025-12-02 21:40:06 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 21:40:06 - __main__ - INFO - ======================================================================
+2025-12-02 21:40:06 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 22:14:22 - __main__ - INFO - 
+2025-12-02 22:14:22 - __main__ - INFO - ======================================================================
+2025-12-02 22:14:22 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 22:14:22 - __main__ - INFO - ======================================================================
+2025-12-02 22:14:22 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 22:14:22 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 22:14:22 - __main__ - INFO - 
+2025-12-02 22:14:22 - __main__ - INFO - ======================================================================
+2025-12-02 22:14:22 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 22:14:22 - __main__ - INFO - ======================================================================
+2025-12-02 22:14:22 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 22:14:22 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 22:14:22 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 22:14:22 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 22:14:22 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 22:14:22 - __main__ - INFO -   Images: 796 files
+2025-12-02 22:14:22 - __main__ - INFO -   Videos: 0 files
+2025-12-02 22:14:22 - __main__ - INFO - 
+2025-12-02 22:14:22 - __main__ - INFO - ======================================================================
+2025-12-02 22:14:22 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 22:14:22 - __main__ - INFO - ======================================================================
+2025-12-02 22:14:22 - __main__ - INFO - 
+2025-12-02 22:14:22 - __main__ - INFO - ======================================================================
+2025-12-02 22:14:22 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 22:14:22 - __main__ - INFO - ======================================================================
+2025-12-02 22:14:22 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 22:14:22 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 22:14:22 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 22:14:27 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 22:14:27 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 22:14:30 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 22:14:30 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 22:14:30 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 22:14:30 - __main__ - INFO - Analyzing text content...
+2025-12-02 22:19:03 - __main__ - INFO - Analyzing images...
+2025-12-02 22:19:03 - __main__ - INFO - Found 789 images
+2025-12-02 22:19:04 - __main__ - INFO - Analyzing videos...
+2025-12-02 22:19:04 - src.models.video_analysis - INFO - Initializing VideoAnalyzer
+2025-12-02 22:19:04 - src.models.audio_analysis - INFO - Loading Whisper model: tiny on cpu
+2025-12-02 22:19:06 - src.models.audio_analysis - INFO - Whisper model loaded successfully
+2025-12-02 22:19:06 - __main__ - INFO - Found 0 videos
+2025-12-02 22:19:06 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 22:19:06 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 22:19:06 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 22:19:06 - __main__ - ERROR - Error analyzing brand fit for example_fitness_brand.json: 'name'
+2025-12-02 22:19:06 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 22:19:06 - __main__ - INFO - 
+2025-12-02 22:19:06 - __main__ - INFO - ======================================================================
+2025-12-02 22:19:06 - __main__ - INFO -   STAGE 4: CLEANUP
+2025-12-02 22:19:06 - __main__ - INFO - ======================================================================
+2025-12-02 22:19:06 - src.utils.storage - INFO - Deleted 0 videos, freed 0.00 B
+2025-12-02 22:19:06 - src.utils.storage - INFO - Total space freed: 0.00 B
+2025-12-02 22:19:06 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:19:06 - src.utils.storage - INFO - STORAGE USAGE REPORT
+2025-12-02 22:19:06 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:19:06 - src.utils.storage - INFO - Images........................       113.51 MB
+2025-12-02 22:19:06 - src.utils.storage - INFO - Videos........................          0.00 B
+2025-12-02 22:19:06 - src.utils.storage - INFO - Dataset Total.................       114.19 MB
+2025-12-02 22:19:06 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:19:06 - __main__ - INFO - 
+Analysis complete for @mattrife
+2025-12-02 22:19:06 - __main__ - INFO - 
+2025-12-02 22:19:06 - __main__ - INFO - ======================================================================
+2025-12-02 22:19:06 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 22:19:06 - __main__ - INFO - ======================================================================
+2025-12-02 22:19:06 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 22:26:08 - __main__ - INFO - 
+2025-12-02 22:26:08 - __main__ - INFO - ======================================================================
+2025-12-02 22:26:08 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 22:26:08 - __main__ - INFO - ======================================================================
+2025-12-02 22:26:08 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 22:26:08 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 22:26:08 - __main__ - INFO - 
+2025-12-02 22:26:08 - __main__ - INFO - ======================================================================
+2025-12-02 22:26:08 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 22:26:08 - __main__ - INFO - ======================================================================
+2025-12-02 22:26:08 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 22:26:08 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 22:26:08 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 22:26:08 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 22:26:08 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 22:26:08 - __main__ - INFO -   Images: 796 files
+2025-12-02 22:26:08 - __main__ - INFO -   Videos: 0 files
+2025-12-02 22:26:08 - __main__ - INFO - 
+2025-12-02 22:26:08 - __main__ - INFO - ======================================================================
+2025-12-02 22:26:08 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 22:26:08 - __main__ - INFO - ======================================================================
+2025-12-02 22:26:08 - __main__ - INFO - 
+2025-12-02 22:26:08 - __main__ - INFO - ======================================================================
+2025-12-02 22:26:08 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 22:26:08 - __main__ - INFO - ======================================================================
+2025-12-02 22:26:08 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 22:26:08 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 22:26:08 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 22:26:11 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 22:26:11 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 22:26:13 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 22:26:13 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 22:26:13 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 22:26:13 - __main__ - INFO - Analyzing text content...
+2025-12-02 22:30:17 - __main__ - INFO - Analyzing images...
+2025-12-02 22:30:17 - __main__ - INFO - Found 789 images
+2025-12-02 22:30:17 - __main__ - INFO - Analyzing videos...
+2025-12-02 22:30:17 - src.models.video_analysis - INFO - Initializing VideoAnalyzer
+2025-12-02 22:30:17 - src.models.audio_analysis - INFO - Loading Whisper model: tiny on cpu
+2025-12-02 22:30:19 - src.models.audio_analysis - INFO - Whisper model loaded successfully
+2025-12-02 22:30:19 - __main__ - INFO - Found 0 videos
+2025-12-02 22:30:19 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 22:30:19 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 22:30:19 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 22:30:19 - __main__ - ERROR - Error analyzing brand fit for example_fitness_brand.json: 'name'
+2025-12-02 22:30:19 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 22:30:19 - __main__ - INFO - 
+2025-12-02 22:30:19 - __main__ - INFO - ======================================================================
+2025-12-02 22:30:19 - __main__ - INFO -   STAGE 4: CLEANUP
+2025-12-02 22:30:19 - __main__ - INFO - ======================================================================
+2025-12-02 22:30:19 - src.utils.storage - INFO - Deleted 0 videos, freed 0.00 B
+2025-12-02 22:30:19 - src.utils.storage - INFO - Total space freed: 0.00 B
+2025-12-02 22:30:19 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:30:19 - src.utils.storage - INFO - STORAGE USAGE REPORT
+2025-12-02 22:30:19 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:30:19 - src.utils.storage - INFO - Images........................       113.51 MB
+2025-12-02 22:30:19 - src.utils.storage - INFO - Videos........................          0.00 B
+2025-12-02 22:30:19 - src.utils.storage - INFO - Dataset Total.................       114.19 MB
+2025-12-02 22:30:19 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:30:19 - __main__ - INFO - 
+Analysis complete for @mattrife
+2025-12-02 22:30:19 - __main__ - INFO - 
+2025-12-02 22:30:19 - __main__ - INFO - ======================================================================
+2025-12-02 22:30:19 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 22:30:19 - __main__ - INFO - ======================================================================
+2025-12-02 22:30:19 - __main__ - INFO - All influencers processed successfully!
+2025-12-02 22:33:04 - __main__ - INFO - 
+2025-12-02 22:33:04 - __main__ - INFO - ======================================================================
+2025-12-02 22:33:04 - __main__ - INFO -   CLOUTCHECK AI - FULL PIPELINE
+2025-12-02 22:33:04 - __main__ - INFO - ======================================================================
+2025-12-02 22:33:04 - __main__ - INFO - Found 1 influencer(s) to analyze
+2025-12-02 22:33:04 - __main__ - INFO - 
+Processing @mattrife...
+2025-12-02 22:33:04 - __main__ - INFO - 
+2025-12-02 22:33:04 - __main__ - INFO - ======================================================================
+2025-12-02 22:33:04 - __main__ - INFO -   STAGE 1: PREPROCESSING DATA (MATTRIFE)
+2025-12-02 22:33:04 - __main__ - INFO - ======================================================================
+2025-12-02 22:33:04 - src.data_prep.preprocess_apify_json - INFO - Processing mattrife_6months_posts.json...
+2025-12-02 22:33:04 - src.data_prep.preprocess_apify_json - INFO - Found 159 posts
+2025-12-02 22:33:04 - src.data_prep.preprocess_apify_json - INFO - Successfully processed 159 posts for @mattrife
+2025-12-02 22:33:04 - src.data_prep.preprocess_apify_json - INFO - Saved to C:\Users\user\Desktop\FYP\data\processed\mattrife_processed.csv
+2025-12-02 22:33:04 - __main__ - INFO - Media already downloaded, skipping Stage 2...
+2025-12-02 22:33:04 - __main__ - INFO -   Images: 796 files
+2025-12-02 22:33:04 - __main__ - INFO -   Videos: 0 files
+2025-12-02 22:33:04 - __main__ - INFO - 
+2025-12-02 22:33:04 - __main__ - INFO - ======================================================================
+2025-12-02 22:33:04 - __main__ - INFO -   STAGE 3: RUNNING AI ANALYSIS (MATTRIFE)
+2025-12-02 22:33:04 - __main__ - INFO - ======================================================================
+2025-12-02 22:33:04 - __main__ - INFO - 
+2025-12-02 22:33:04 - __main__ - INFO - ======================================================================
+2025-12-02 22:33:04 - __main__ - INFO -   ANALYZING @MATTRIFE
+2025-12-02 22:33:04 - __main__ - INFO - ======================================================================
+2025-12-02 22:33:04 - __main__ - INFO - Loaded 159 posts for @mattrife
+2025-12-02 22:33:04 - src.models.text_toxicity - INFO - Initializing TextAnalyzer on cpu
+2025-12-02 22:33:04 - src.models.text_toxicity - INFO - Loading Toxicity model: unitary/unbiased-toxic-roberta
+2025-12-02 22:33:07 - src.models.text_toxicity - INFO - ✓ Toxicity model loaded successfully
+2025-12-02 22:33:07 - src.models.text_toxicity - INFO - Loading sentiment model: cardiffnlp/twitter-roberta-base-sentiment-latest
+2025-12-02 22:33:09 - src.models.text_toxicity - INFO - TextAnalyzer initialized successfully
+2025-12-02 22:33:09 - src.models.image_nsfw - INFO - Initializing Simple Image Analyzer (NudeNet replacement)
+2025-12-02 22:33:09 - src.models.image_nsfw - INFO - Note: Using basic heuristics instead of ML model due to Windows DLL issues
+2025-12-02 22:33:09 - __main__ - INFO - Analyzing text content...
+2025-12-02 22:36:58 - __main__ - INFO - Analyzing images...
+2025-12-02 22:36:58 - __main__ - INFO - Found 789 images
+2025-12-02 22:36:58 - __main__ - INFO - Analyzing videos...
+2025-12-02 22:36:58 - src.models.video_analysis - INFO - Initializing VideoAnalyzer
+2025-12-02 22:36:58 - src.models.audio_analysis - INFO - Loading Whisper model: tiny on cpu
+2025-12-02 22:36:59 - src.models.audio_analysis - INFO - Whisper model loaded successfully
+2025-12-02 22:36:59 - __main__ - INFO - Found 0 videos
+2025-12-02 22:36:59 - __main__ - INFO - Calculating aggregate scores...
+2025-12-02 22:36:59 - src.brand_fit.brand_analyzer - INFO - Initialized BrandFitAnalyzer for e.l.f. Cosmetics
+2025-12-02 22:36:59 - src.brand_fit.brand_analyzer - INFO - Analyzing brand fit for @mattrife with e.l.f. Cosmetics
+2025-12-02 22:36:59 - __main__ - ERROR - Error analyzing brand fit for example_fitness_brand.json: 'name'
+2025-12-02 22:36:59 - __main__ - INFO - Results saved to: C:\Users\user\Desktop\FYP\results\mattrife_analysis.json
+2025-12-02 22:36:59 - __main__ - INFO - 
+2025-12-02 22:36:59 - __main__ - INFO - ======================================================================
+2025-12-02 22:36:59 - __main__ - INFO -   STAGE 4: CLEANUP
+2025-12-02 22:36:59 - __main__ - INFO - ======================================================================
+2025-12-02 22:36:59 - src.utils.storage - INFO - Deleted 0 videos, freed 0.00 B
+2025-12-02 22:36:59 - src.utils.storage - INFO - Total space freed: 0.00 B
+2025-12-02 22:36:59 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:36:59 - src.utils.storage - INFO - STORAGE USAGE REPORT
+2025-12-02 22:36:59 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:36:59 - src.utils.storage - INFO - Images........................       113.51 MB
+2025-12-02 22:36:59 - src.utils.storage - INFO - Videos........................          0.00 B
+2025-12-02 22:36:59 - src.utils.storage - INFO - Dataset Total.................       114.19 MB
+2025-12-02 22:36:59 - src.utils.storage - INFO - ==================================================
+2025-12-02 22:36:59 - __main__ - INFO - 
+Analysis complete for @mattrife
+2025-12-02 22:36:59 - __main__ - INFO - 
+2025-12-02 22:36:59 - __main__ - INFO - ======================================================================
+2025-12-02 22:36:59 - __main__ - INFO -   PIPELINE COMPLETE
+2025-12-02 22:36:59 - __main__ - INFO - ======================================================================
+2025-12-02 22:36:59 - __main__ - INFO - All influencers processed successfully!
