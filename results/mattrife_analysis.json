@@ -1,0 +1,98 @@
+<<<<<<< HEAD
+{
+  "username": "mattrife",
+  "analysis_date": "2025-12-10T20:38:32.231813",
+  "posts_analyzed": 135,
+  "text_analysis": {
+    "avg_toxicity": 0.189,
+    "avg_sentiment": 0.764,
+    "avg_spam_score": 0.013,
+    "max_identity_attack": 0.162,
+    "max_insult": 0.968,
+    "max_severe_toxicity": 0.002
+  },
+  "image_analysis": {
+    "images_analyzed": 682,
+    "avg_nsfw_score": 0.0,
+    "nsfw_images_found": 0,
+    "nsfw_ratio": 0.0
+  },
+  "engagement_metrics": {
+    "total_likes": 24723420,
+    "total_comments": 228079,
+    "avg_likes_per_post": 183136.44,
+    "avg_comments_per_post": 1689.47
+  },
+  "reputation_score": 71.71,
+  "rating": "Fair",
+  "brand_fits": [
+    {
+      "brand_name": "e.l.f. Cosmetics",
+      "fit_score": 15.0,
+      "rating": "Unsafe / Do Not Partner",
+      "risk_factors": [
+        "High average toxicity (0.19 > 0.15)",
+        "Identity attack detected (0.16 > 0.1)",
+        "Insulting content detected (0.97 > 0.15)"
+      ],
+      "reasons": [
+        "Safety violations detected (-90.0)",
+        "Values alignment bonus (+5.0)"
+      ],
+      "details": {
+        "safety_score": 10.0,
+        "topic_score": 100.0,
+        "values_score": 5.0
+      }
+    }
+  ]
+=======
+{
+  "username": "mattrife",
+  "analysis_date": "2025-12-03T19:58:34.944939",
+  "posts_analyzed": 159,
+  "text_analysis": {
+    "avg_toxicity": 0.223,
+    "avg_sentiment": 0.734,
+    "avg_spam_score": 0.009,
+    "max_identity_attack": 0.191,
+    "max_insult": 0.949,
+    "max_severe_toxicity": 0.004
+  },
+  "image_analysis": {
+    "images_analyzed": 789,
+    "avg_nsfw_score": 0.0,
+    "nsfw_images_found": 0,
+    "nsfw_ratio": 0.0
+  },
+  "engagement_metrics": {
+    "total_likes": 31722535,
+    "total_comments": 264423,
+    "avg_likes_per_post": 199512.8,
+    "avg_comments_per_post": 1663.04
+  },
+  "reputation_score": 70.46,
+  "rating": "Fair",
+  "brand_fits": [
+    {
+      "brand_name": "e.l.f. Cosmetics",
+      "fit_score": 15.0,
+      "rating": "Unsafe / Do Not Partner",
+      "risk_factors": [
+        "High average toxicity (0.22 > 0.15)",
+        "Identity attack detected (0.19 > 0.1)",
+        "Insulting content detected (0.95 > 0.15)"
+      ],
+      "reasons": [
+        "Safety violations detected (-90.0)",
+        "Values alignment bonus (+5.0)"
+      ],
+      "details": {
+        "safety_score": 10.0,
+        "topic_score": 100.0,
+        "values_score": 5.0
+      }
+    }
+  ]
+>>>>>>> 8bf316f0f1e5a33d7051e28b6dde11854481b5fc
+}

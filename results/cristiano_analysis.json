@@ -1,0 +1,95 @@
+<<<<<<< HEAD
+{
+  "username": "cristiano",
+  "analysis_date": "2025-12-10T20:22:32.029056",
+  "posts_analyzed": 179,
+  "text_analysis": {
+    "avg_toxicity": 0.019,
+    "avg_sentiment": 0.763,
+    "avg_spam_score": 0.138,
+    "max_identity_attack": 0.056,
+    "max_insult": 0.63,
+    "max_severe_toxicity": 0.0
+  },
+  "image_analysis": {
+    "images_analyzed": 503,
+    "avg_nsfw_score": 0.003,
+    "nsfw_images_found": 3,
+    "nsfw_ratio": 0.006
+  },
+  "engagement_metrics": {
+    "total_likes": 1149564295,
+    "total_comments": 13083629,
+    "avg_likes_per_post": 6422146.9,
+    "avg_comments_per_post": 73092.9
+  },
+  "reputation_score": 94.19,
+  "rating": "Excellent",
+  "brand_fits": [
+    {
+      "brand_name": "e.l.f. Cosmetics",
+      "fit_score": 25.0,
+      "rating": "Unsafe / Do Not Partner",
+      "risk_factors": [
+        "Insulting content detected (0.63 > 0.15)",
+        "Found 3 NSFW images"
+      ],
+      "reasons": [
+        "Safety violations detected (-80.0)",
+        "Values alignment bonus (+5.0)"
+      ],
+      "details": {
+        "safety_score": 20.0,
+        "topic_score": 100.0,
+        "values_score": 5.0
+      }
+    }
+  ]
+=======
+{
+  "username": "cristiano",
+  "analysis_date": "2025-12-04T18:37:52.088506",
+  "posts_analyzed": 179,
+  "text_analysis": {
+    "avg_toxicity": 0.022,
+    "avg_sentiment": 0.755,
+    "avg_spam_score": 0.141,
+    "max_identity_attack": 0.056,
+    "max_insult": 0.67,
+    "max_severe_toxicity": 0.0
+  },
+  "image_analysis": {
+    "images_analyzed": 497,
+    "avg_nsfw_score": 0.0,
+    "nsfw_images_found": 0,
+    "nsfw_ratio": 0.0
+  },
+  "engagement_metrics": {
+    "total_likes": 1149564295,
+    "total_comments": 13083629,
+    "avg_likes_per_post": 6422146.9,
+    "avg_comments_per_post": 73092.9
+  },
+  "reputation_score": 94.05,
+  "rating": "Excellent",
+  "brand_fits": [
+    {
+      "brand_name": "e.l.f. Cosmetics",
+      "fit_score": 85.0,
+      "rating": "Good Fit",
+      "risk_factors": [
+        "Insulting content detected (0.67 > 0.15)"
+      ],
+      "reasons": [
+        "Safety violations detected (-20.0)",
+        "Values alignment bonus (+5.0)"
+      ],
+      "details": {
+        "safety_score": 80.0,
+        "topic_score": 100.0,
+        "values_score": 5.0
+      }
+    }
+  ]
+>>>>>>> 8bf316f0f1e5a33d7051e28b6dde11854481b5fc
+}

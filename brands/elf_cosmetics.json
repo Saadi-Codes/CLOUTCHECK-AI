@@ -1,0 +1,76 @@
+<<<<<<< HEAD
+{
+    "name": "e.l.f. Cosmetics",
+    "industry": "Beauty",
+    "target_audience": [
+        "women",
+        "gen-z",
+        "beauty_enthusiasts"
+    ],
+    "values": [
+        "inclusivity",
+        "cruelty-free",
+        "affordable",
+        "vegan",
+        "clean_beauty"
+    ],
+    "safety_thresholds": {
+        "max_toxicity": 0.15,
+        "max_severe_toxicity": 0.05,
+        "max_identity_attack": 0.10,
+        "max_insult": 0.15,
+        "max_nsfw": 0.1,
+        "max_spam": 0.2
+    },
+    "excluded_topics": [
+        "politics",
+        "religion",
+        "controversy",
+        "sexism",
+        "misogyny",
+        "violence",
+        "hate_speech",
+        "drugs",
+        "alcohol",
+        "gambling"
+    ],
+    "required_sentiment": 0.0
+=======
+{
+    "name": "e.l.f. Cosmetics",
+    "industry": "Beauty",
+    "target_audience": [
+        "women",
+        "gen-z",
+        "beauty_enthusiasts"
+    ],
+    "values": [
+        "inclusivity",
+        "cruelty-free",
+        "affordable",
+        "vegan",
+        "clean_beauty"
+    ],
+    "safety_thresholds": {
+        "max_toxicity": 0.15,
+        "max_severe_toxicity": 0.05,
+        "max_identity_attack": 0.10,
+        "max_insult": 0.15,
+        "max_nsfw": 0.1,
+        "max_spam": 0.2
+    },
+    "excluded_topics": [
+        "politics",
+        "religion",
+        "controversy",
+        "sexism",
+        "misogyny",
+        "violence",
+        "hate_speech",
+        "drugs",
+        "alcohol",
+        "gambling"
+    ],
+    "required_sentiment": 0.0
+>>>>>>> 8bf316f0f1e5a33d7051e28b6dde11854481b5fc
+}
