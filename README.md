@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CloutCheck AI – Influencer Reputation Analysis Pipeline
 
 Multi-modal AI pipeline for analyzing Instagram influencer content using text toxicity detection, image NSFW analysis, video processing, and audio transcription. Generates comprehensive reputation scores and brand-influencer fit analysis.
